@@ -1,0 +1,53 @@
+ID,Name,Glottocode,Glottolog_Name,Latitude,Longitude,SubGroup
+Achang,Achang (Longchuan),acha1249,Longchuan Achang,24.466605,97.89503,Burmish
+Anong,Anong,nung1282,Nung (Myanmar),,,
+Atsi,Atsi [Zaiwa],zaiw1241,Zaiwa,24.17,98.36,Burmish
+BijiangBai,Bai (Bijiang),biji1251,Bijiang Bai,,,Bai
+DaliBai,Bai (Dali),dali1242,Dali,,,Bai
+JianchuanBai,Bai (Jianchuan),jian1239,Jianchuan,,,Bai
+BokarLhoba,Bokar Lhoba,boka1249,Bokar-Ramo,,,
+RangoonBurmese,Burmese (Spoken Rangoon),mand1476,Mandalay-Yangoon,16.867489,96.191442,Burmish
+WrittenBurmese,Burmese (Written),nucl1310,Burmese,,,
+Darang,Darang [Taraon],diga1241,Tawra,,,
+DanbaErgong,Ergong (Danba),horp1239,Horpa,,,
+Ersu,Ersu,ersu1241,Ersu,,,
+Guiqiong,Guiqiong,guiq1238,Guiqiong,,,
+CaiyuanHani,Hani (Caiyuan),biyo1243,Biyo,,,
+DazhaiHani,Hani (Dazhai),dazh1234,Dazhai,,,
+ShuikuiHani,Hani (Shuikui),honi1244,Honi,,,
+Idu,Idu,idum1241,Idu,,,
+Jingpho,Jingpho,kach1280,Southern Jinghpaw,,,
+Jinuo,Jinuo,youl1235,Youle Jinuo,,,
+Kaman,Kaman [Miju],miju1243,Kman,,,
+BlackLahu,Lahu (Black),naaa1244,Na (Lahu),,,
+Lisu,Lisu,lisu1250,Lisu,,,
+Maru,Maru [Langsu],lawn1238,Lawng Hsu,,,
+Muya,Muya [Minyak],muya1239,Muya,,,
+Namuyi,Namuyi,namu1246,Namuyi,,,
+LijiangNaxi,Naxi (Lijiang),lich1241,Lichiang,,,
+YongningNaxi,Naxi (Yongning),yong1270,Yongning Na,,,
+BijiangNusu,Nusu (Bijiang),nusu1239,Nusu,,,
+QinghuaPumi,Pumi (Qinghua),qing1238,Qinghua Pumi,,,
+TaobaPumi,Pumi (Taoba),taob1238,Taoba,,,
+MawoQiang,Qiang (Mawo),nort2722,Northern Qiang,,,
+TaopingQiang,Qiang (Taoping),taop1238,Taoping Qiang,,,
+YajiangQueyu,Queyu (Yajiang) [Zhaba],quey1238,Queyu,,,
+Sulong,Sulung [Puroik],bugu1245,Chayangtajo,,,
+Tangut,Tangut [Xixia],tang1334,Tangut,,,
+AmdoTibetanBlabrang,Tibetan (Amdo:Bla-brang),,,,,
+AmdoTibetanZeku,Tibetan (Amdo:Zeku),,,,,
+KhamsTibetan,Tibetan (Khams:Dege),kham1282,Khams Tibetan,,,
+LhasaTibetan,Tibetan (Lhasa),utsa1239,Lhasa Tibetan,,,
+WrittenTibetan,Tibetan (Written),clas1254,Classical Tibetan,,,
+Trung,Trung [Dulong],drun1238,Drung,27.749017,98.691868,Nungic
+MotuoTsangla,Tsangla (Motuo),tsha1245,Tshangla,,,
+MamaTshona,Tshona (Mama),dzal1238,Dzalakha,,,
+Tujia,Tujia,tuji1244,Tujia,,,
+Xumi,Xumi,shix1238,Shixing,,,
+DafangYi,Yi (Dafang),dafa1241,Dafang,,,
+MileYi,Yi (Mile),axiy1235,Axi Yi,27.16,105.61,Nesu
+MojiangYi,Yi (Mojiang),sout2723,Southern Nisu,24.41,103.43,Nesu
+NanhuaYi,Yi (Nanhua),nanh1240,Nanhua Lolopho,23.43,101.69,Nesu
+NanjianYi,Yi (Nanjian),xish1235,Xishanba Lalo,25.19,101.27,Nesu
+XideYi,Yi (Xide),yish1238,Yishengzha Yi,25.04,100.51,Nesu
+MaerkangrGyalrong,rGyalrong,maer1238,Maerkang,28.33,102.42,Nesu
