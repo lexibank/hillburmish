@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/hillburmish",
             "rdf:type": "prov:Entity",
-            "dc:created": "c2bb4fc",
+            "dc:created": "a78f5b1",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
