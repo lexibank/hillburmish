@@ -19,6 +19,10 @@ class CustomConcept(pylexibank.Concept):
     Chinese_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
 
+
+@attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    Partial_Cognacy = attr.ib(default=None)
     
 
 
@@ -27,6 +31,7 @@ class Dataset(pylexibank.Dataset):
     id = "hillburmish"
     language_class = CustomLanguage
     concept_class = CustomConcept
+    lexeme_class = CustomLexeme
     form_spec = pylexibank.FormSpec(
         separators=";,/",
         missing_data=("*", "---", "-", "--"),
@@ -63,7 +68,7 @@ class Dataset(pylexibank.Dataset):
                     Form=wl[idx, "form"],
                     Segments=wl[idx, "tokens"],
                     Source=["Huang1992"],
-                    Cognacy=" ".join([str(cogid) for cogid in wl[idx, "cogids"]])
+                    Partial_Cognacy=" ".join([str(cogid) for cogid in wl[idx, "cogids"]])
                 )
                 for i, cogid in enumerate(wl[idx, "cogids"]):
                     pass
