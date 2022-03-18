@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/hillburmish",
             "rdf:type": "prov:Entity",
-            "dc:created": "e9f714e",
+            "dc:created": "9414aa0",
             "dc:title": "Repository"
         },
         {
@@ -60,7 +60,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4376,
+            "dc:extent": 4032,
             "tableSchema": {
                 "columns": [
                     {

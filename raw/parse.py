@@ -25,6 +25,9 @@ def split_form(form):
         elif x.endswith('>'):
             out[i] = x[:-1]
             idxs += [1]
+        elif x.endswith("<"):
+            out[i] = x[:-1]
+            idxs += [0]
         elif x.startswith('<'):
             out[i] = x[1:]
             idxs += [1]
@@ -75,7 +78,10 @@ for line in lines:
             concept = new_concept
         data[concept, language, "_".join(word)] += [[protos, form, idxs,
             morpheme, midx, {}]]
-        for proto in protos:
+        for protox in protos:
+            protod[protox][language] += [(
+                concept, word, form, idxs, morpheme, midx)]
+        if not protos:
             protod[proto][language] += [(
                 concept, word, form, idxs, morpheme, midx)]
 
