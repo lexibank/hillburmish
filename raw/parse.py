@@ -200,6 +200,21 @@ reps = {
 for idx in wl:
     wl[idx, 'tokens'] = " ".join([reps.get(h, h) for h in wl[idx,
         "tokens"]]).split()
+
+for idx in wl:
+    if wl[idx, "doculect"] == "OldBurmese":
+        new_tok = []
+        for tok in wl[idx, "tokens"].n:
+            if tok[-1] in "ptkc":
+                tok = " ".join(tok)+" ⁴"
+                new_tok += [tok]
+            elif tok[-1] in ["ʔ"]:
+                new_tok += [" ".join(tok)+" ³"]
+            elif tok[-1] in ["ḥ/⁵"]:
+                new_tok += [" ".join(tok)]
+            else:
+                new_tok += [" ".join(tok)]
+        wl[idx, "tokens"] = " + ".join(new_tok)
 wl.output("tsv", filename="burmish", prettify=False)
 
 alms = Alignments(wl, ref="cogids", transcription="form")
