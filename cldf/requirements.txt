@@ -5,8 +5,9 @@ cldfbench==1.9.0
 cldfcatalog==1.4.0
 cldfzenodo==0.2.0
 clldutils==3.10.1
+colorama==0.4.5
 colorlog==6.6.0
-csvw==2.0.0
+-e git+https://github.com/cldf/csvw.git@4ed1bb4e80c50e437de5bd4166c4d9ea704b2926#egg=csvw
 gitdb==4.0.9
 greenlet==1.1.2
 html5lib==1.1
@@ -26,10 +27,11 @@ pluggy==1.0.0
 purl==1.6
 py==1.11.0
 pybtex==0.24.0
-pycldf==1.25.1
+-e git+https://github.com/cldf/pycldf.git@dc33e0f4a4154722346f9e9d40333598b681e386#egg=pycldf
 pyclts==3.1.1
 pyconcepticon==2.8.0
 pycountry==22.1.10
+pyedictor==0.4
 -e git+https://github.com/clld/pyglottolog.git@13af3b6f070bad186768c589c7b335edc43b7a7f#egg=pyglottolog
 pylexibank==3.3.0
 pysem==0.4.0
@@ -39,7 +41,7 @@ python-igraph==0.9.9
 regex==2022.1.18
 requests==2.27.1
 rfc3986==1.5.0
-segments==2.2.0
+-e git+https://github.com/LinguList/segments.git@b6a99ec7d1cd4728d7029372efeee8f78656c6eb#egg=segments
 six==1.16.0
 smmap==5.0.0
 soupsieve==2.3.1
@@ -50,6 +52,7 @@ texttable==1.6.4
 tqdm==4.62.3
 uritemplate==4.1.1
 urllib3==1.26.8
+wcwidth==0.2.5
 webencodings==0.5.1
 xlrd==2.0.1
 zenodoclient==0.4.1
