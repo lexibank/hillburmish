@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/hillburmish",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1",
+            "dc:created": "v0.1-3-gd7a213c",
             "dc:title": "Repository"
         },
         {

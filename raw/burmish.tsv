@@ -437,7 +437,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 393	Bola	New Year's Day	tɛ̃⁵⁵ sak⁵⁵	tɛ̃⁵⁵+sak⁵⁵	 	*dam / *dan / *dzam / *dzan *sik	61 1012	t ɛ̃ ⁵⁵ + s a k ⁵⁵
 394	Lashi	New Year's Day	tsan³¹ sə̱k⁵⁵	tsan³¹+sə̱k⁵⁵	 	 	61 1013	ts a n ³¹ + s ə̱ k ⁵⁵
 395	Maru	New Year's Day	tsəŋ³¹ sa̱k⁵⁵	tsəŋ³¹+sa̱k⁵⁵	 	*dzan *ʔsik	64 1014	ts ə ŋ ³¹ + s a̱ k ⁵⁵
-2935	Rangoon	New Year's Day	n̥iʔ⁴ tθiʔ⁴	n̥iʔ⁴+tθiʔ⁴	 	 	3104 1486	n̥ i ʔ ⁴ + t θ i ʔ ⁴
+2935	Rangoon	New Year's Day	n̥iʔ⁴ tθiʔ⁴	n̥iʔ⁴+tθiʔ⁴	 	 	3104 1486	n̥ i ʔ ⁴ + tθ i ʔ ⁴
 25	Atsi	accomplish / succeed	pa̱n⁵⁵	pa̱n⁵⁵			4	p a̱ n ⁵⁵
 26	Bola	accomplish / succeed	pɛ̃⁵⁵	pɛ̃⁵⁵		*bam / *ban	4	p ɛ̃ ⁵⁵
 27	Maru	accomplish / succeed	pəŋ³¹	pəŋ³¹		*ban	4	p ə ŋ ³¹
@@ -472,7 +472,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 507	Bola	agree on / arrange	taŋ³¹	taŋ³¹		*diŋH / *dziŋH	75	t a ŋ ³¹
 28	Lashi	all / everything	pan³¹ ʃɔ̱ʔ⁵⁵	pan³¹+ʃɔ̱ʔ⁵⁵	 	 	4 536	p a n ³¹ + ʃ ɔ̱ ʔ ⁵⁵
 29	Maru	all / everything	pəŋ³¹ ʃɔʔ⁵⁵	pəŋ³¹+ʃɔʔ⁵⁵	 	*ban *ʔrjak / *ʃak	4 539	p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵
-2886	Rangoon	all / everything	m̥ɑ̃²² tθɑ⁵³ m̥jɑ⁵³	m̥ɑ̃²²+tθɑ⁵³+m̥jɑ⁵³	  	  	3078 536 3079	m̥ ɑ̃ ²² + t θ ɑ ⁵³ + m̥ j ɑ ⁵³
+2886	Rangoon	all / everything	m̥ɑ̃²² tθɑ⁵³ m̥jɑ⁵³	m̥ɑ̃²²+tθɑ⁵³+m̥jɑ⁵³	  	  	3078 536 3079	m̥ ɑ̃ ²² + tθ ɑ ⁵³ + m̥ j ɑ ⁵³
 2887	Achang_Longchuan	all / everything	pʐa⁵⁵ pʐa⁵⁵	pʐa⁵⁵+pʐa⁵⁵	 	 *brɛ	3080 6	p ʐ a ⁵⁵ + p ʐ a ⁵⁵
 5012	ProtoBurmish	all / everything	*ʔrjak	ˀrjak⁴	*ʔrjak	*ʔrjak	539	ˀr j a k ⁴
 30	Achang_Longchuan	all / whole, the	pʐa⁵⁵ pʐa⁵⁵	pʐa⁵⁵+pʐa⁵⁵	 	*brɛ *brɛ	940 6	p ʐ a ⁵⁵ + p ʐ a ⁵⁵
@@ -491,7 +491,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1193	Lashi	angry, be / take offense	nə̱k⁵⁵ jɔː³³	nə̱k⁵⁵+jɔː³³	 	 	1202 838	n ə̱ k ⁵⁵ + j ɔː ³³
 1194	Maru	angry, be / take offense	na̱k⁵⁵ jo³¹	na̱k⁵⁵+jo³¹	 	*ʔnik 	1203 838	n a̱ k ⁵⁵ + j o ³¹
 2248	Old_Burmese	angry, be / take offense	myak	mjak		*mjak	438	m j a k
-1187	Rangoon	animal / beast (note:+carnivore)	tθɑ⁵⁵ jɛ⁵⁵ ti⁵³ reʔ⁴ shɑ̃²²	tθɑ⁵⁵+jɛ⁵⁵+ti⁵³+reʔ⁴+shɑ̃²²	    	    	2207 208 2208 2209 2210	t θ ɑ ⁵⁵ + j ɛ ⁵⁵ + t i ⁵³ + r e ʔ ⁴ + sʰ ɑ̃ ²²
+1187	Rangoon	animal / beast (note:+carnivore)	tθɑ⁵⁵ jɛ⁵⁵ ti⁵³ reʔ⁴ shɑ̃²²	tθɑ⁵⁵+jɛ⁵⁵+ti⁵³+reʔ⁴+shɑ̃²²	    	    	2207 208 2208 2209 2210	tθ ɑ ⁵⁵ + j ɛ ⁵⁵ + t i ⁵³ + r e ʔ ⁴ + sʰ ɑ̃ ²²
 1188	Bola	animal / beast (note:+carnivore)	sɛ̃⁵⁵ ja³¹ tsai⁵⁵	sɛ̃⁵⁵+ja³¹+tsai⁵⁵	  	*sam / *san *jaH 	871 208 2211	s ɛ̃ ⁵⁵ + j a ³¹ + ts ai ⁵⁵
 1189	Lashi	animal / beast (note:+carnivore)	sei⁵⁵ jɔ³¹	sei⁵⁵+jɔ³¹	 	 	871 208	s ei ⁵⁵ + j ɔ ³¹
 4681	ProtoBurmish	animal / beast (note:+carnivore)	*jaH	ja²	*jaH	*jaH	208	j a ²
@@ -647,7 +647,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3324	Xiandao	bear	om⁵⁵	om⁵⁵			658	o m ⁵⁵
 5131	ProtoBurmish	bear	*wam	wam¹	*wam	*wam	658	w a m ¹
 3571	Old_Burmese	bear (fruit)	siḥ	siḥ		*ʔseH / *ʔsɛH / *seH / *sɛH / *ʃeH / *ʃɛH	731	s i ḥ/⁵
-3572	Rangoon	bear (fruit)	tθi⁵⁵	tθi⁵⁵			731	t θ i ⁵⁵
+3572	Rangoon	bear (fruit)	tθi⁵⁵	tθi⁵⁵			731	tθ i ⁵⁵
 3573	Achang_Longchuan	bear (fruit)	ʂə³¹	ʂə³¹		*ʃeH	731	ʂ ə ³¹
 3574	Atsi	bear (fruit)	tsui²¹	tsui²¹			731	ts ui ²¹
 3575	Bola	bear (fruit)	tui³¹	tui³¹		*duiH / *dzuiH	738	t ui ³¹
@@ -936,7 +936,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 5125	ProtoBurmish	buy	*wai	wai¹	*wai	*wai	652	w ai ¹
 5126	ProtoBurmish	buy	*wɛ	wɛ¹	*wɛ	*wɛ	653	w ɛ ¹
 4432	Maru	calculate	ŋɛ̱ʔ⁵⁵	ŋɛ̱ʔ⁵⁵		*ʔŋap / *ʔŋat	930	ŋ ɛ̱ ʔ ⁵⁵
-1501	Rangoon	calf	tɕhe²² tθɑ⁵³ lõ⁵⁵	tɕhe²²+tθɑ⁵³+lõ⁵⁵	  	  	280 2344 2345	tɕʰ e ²² + t θ ɑ ⁵³ + l õ ⁵⁵
+1501	Rangoon	calf	tɕhe²² tθɑ⁵³ lõ⁵⁵	tɕhe²²+tθɑ⁵³+lõ⁵⁵	  	  	280 2344 2345	tɕʰ e ²² + tθ ɑ ⁵³ + l õ ⁵⁵
 1502	Achang_Longchuan	calf	tɕhi⁵⁵ ʂua³¹ pu³⁵	tɕhi⁵⁵+ʂwa³¹+pu³⁵	  	*ʔkjai / *ʔkji / *ʔkje / *kjai / *kji / *kje  	274 2346 2347	tɕʰ i ⁵⁵ + ʂ w a ³¹ + p u ³⁵
 1503	Atsi	calf	khji⁵¹ pu⁵⁵	khji⁵¹+pu⁵⁵	 	 	280 2348	kʰ j i ⁵¹ + p u ⁵⁵
 1504	Bola	calf	khji⁵⁵ pu̱³¹	khji⁵⁵+pu̱³¹	 	*kji / *kje 	278 2349	kʰ j i ⁵⁵ + p u̱ ³¹
@@ -950,7 +950,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 475	Maru	called, be / named	jɔ̃³¹	jɔ̃³¹		*jaŋ	71	j ɔ̃ ³¹
 3598	Rangoon	careful / attentive	si⁵³ sɑʔ⁴	si⁵³+sɑʔ⁴	 	 	729 3389	s i ⁵³ + s ɑ ʔ ⁴
 3599	Achang_Longchuan	careful / attentive	si³⁵ sin³¹	si³⁵+sin³¹	 	*ʔsaiX / *ʔsiX / *ʔseX / *ʔrjaiX / *ʔrjiX / *ʔrjeX / *ʔraiX / *ʔriX / *ʔreX / *saiX / *siX / *seX 	741 3390	s i ³⁵ + s i n ³¹
-644	Rangoon	careful, be / cautious	tθɑ⁵³ ti⁵³ thɑ⁵⁵	tθɑ⁵³+ti⁵³+thɑ⁵⁵	  	  	1074 1959 1960	t θ ɑ ⁵³ + t i ⁵³ + tʰ ɑ ⁵⁵
+644	Rangoon	careful, be / cautious	tθɑ⁵³ ti⁵³ thɑ⁵⁵	tθɑ⁵³+ti⁵³+thɑ⁵⁵	  	  	1074 1959 1960	tθ ɑ ⁵³ + t i ⁵³ + tʰ ɑ ⁵⁵
 645	Bola	careful, be / cautious	ta³¹ ʒɛ⁵⁵	ta³¹+ʒɛ⁵⁵	 	*daH / *dzaH 	1075 1961	t a ³¹ + ʒ ɛ ⁵⁵
 677	Maru	careful, be / cautious	tsɔ⁵⁵ tsɔ⁵⁵	tsɔ⁵⁵+tsɔ⁵⁵	 	*dzaX 	99 2006	ts ɔ ⁵⁵ + ts ɔ ⁵⁵
 3316	Maru	carry (a child) on the back)	vəŋ³¹	vəŋ³¹		*wan	659	v ə ŋ ³¹
@@ -1067,14 +1067,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 380	Bola	classifier for age	tɛ̃⁵⁵	tɛ̃⁵⁵		*dam / *dan / *dzam / *dzan	61	t ɛ̃ ⁵⁵
 381	Lashi	classifier for age	tsan³¹	tsan³¹			61	ts a n ³¹
 382	Maru	classifier for age	tsəŋ³¹	tsəŋ³¹		*dzan	64	ts ə ŋ ³¹
-4081	Rangoon	classifier for age	hniʔ⁴	hniʔ⁴			838	h n i ʔ ⁴
+4081	Rangoon	classifier for age	hniʔ⁴	n̥iʔ⁴			838	n̥ i ʔ ⁴
 4082	Achang_Longchuan	classifier for age	n̥ək⁵⁵	n̥ək⁵⁵		*ʔnik	838	n̥ ə k ⁵⁵
 4083	Xiandao	classifier for age	n̥ɤk⁵⁵	n̥ɤk⁵⁵			838	n̥ ɤ k ⁵⁵
 398	Atsi	classifier for age of animals	tsan⁵¹	tsan⁵¹			61	ts a n ⁵¹
 399	Bola	classifier for age of animals	tɛ̃⁵⁵	tɛ̃⁵⁵		*dam / *dan / *dzam / *dzan	61	t ɛ̃ ⁵⁵
 400	Lashi	classifier for age of animals	tsan³¹	tsan³¹			61	ts a n ³¹
 401	Maru	classifier for age of animals	tsəŋ³¹	tsəŋ³¹		*dzan	64	ts ə ŋ ³¹
-4054	Rangoon	classifier for age of animals	n̥iʔ⁴ tθɑ⁵⁵	n̥iʔ⁴+tθɑ⁵⁵	 	 	838 3614	n̥ i ʔ ⁴ + t θ ɑ ⁵⁵
+4054	Rangoon	classifier for age of animals	n̥iʔ⁴ tθɑ⁵⁵	n̥iʔ⁴+tθɑ⁵⁵	 	 	838 3614	n̥ i ʔ ⁴ + tθ ɑ ⁵⁵
 4055	Achang_Longchuan	classifier for age of animals	n̥ək⁵⁵	n̥ək⁵⁵		*ʔnik	838	n̥ ə k ⁵⁵
 4056	Xiandao	classifier for age of animals	n̥ɤk⁵⁵	n̥ɤk⁵⁵			838	n̥ ɤ k ⁵⁵
 1405	Atsi	classifier for bowls	khjap⁵⁵	khjap⁵⁵			260	kʰ j a p ⁵⁵
@@ -1187,7 +1187,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2424	Xiandao	cloudy, be (sky) / overcast	mau³¹ tau³¹	mau³¹+tau³¹	 	 	464 2839	m au ³¹ + t au ³¹
 813	Atsi	clumsy / awkward	ko⁵¹	ko⁵¹			137	k o ⁵¹
 814	Maru	clumsy / awkward	kɔ³¹	kɔ³¹		*ga	137	k ɔ ³¹
-2120	Rangoon	coal	tɕɑuʔ⁴ mi⁵⁵ tθwe⁵⁵	tɕɑuʔ⁴+mi⁵⁵+tθwe⁵⁵	  	  	2691 386 2692	tɕ ɑu ʔ ⁴ + m i ⁵⁵ + t θ w e ⁵⁵
+2120	Rangoon	coal	tɕɑuʔ⁴ mi⁵⁵ tθwe⁵⁵	tɕɑuʔ⁴+mi⁵⁵+tθwe⁵⁵	  	  	2691 386 2692	tɕ ɑu ʔ ⁴ + m i ⁵⁵ + tθ w e ⁵⁵
 2121	Achang_Longchuan	coal	mei³¹	mei³¹			386	m ei ³¹
 2122	Atsi	coal	a²¹ jo²¹ mji²¹ xə²¹	a²¹+jo²¹+mji²¹+xə²¹	   	   	2693 2694 1369 2695	a ²¹ + j o ²¹ + m j i ²¹ + x ə ²¹
 2123	Bola	coal	mɛʔ³¹	mɛʔ³¹		*map / *mat	386	m ɛ ʔ ³¹
@@ -1317,7 +1317,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2986	Achang_Longchuan	crawl (of insects)	so³¹	so³¹		*ʔsoH / *ʔroH / *soH	566	s o ³¹
 2987	Xiandao	crawl (of insects)	so³¹	so³¹			565	s o ³¹
 527	Old_Burmese	crawl (of people)	to₁ḥ	tUḥ		*doH	79	t o₁/ʊ ḥ/⁵
-528	Rangoon	crawl (of people)	twɑ⁵⁵ tθwɑ⁵⁵	twɑ⁵⁵+tθwɑ⁵⁵	 	 	79 1891	t w ɑ ⁵⁵ + t θ w ɑ ⁵⁵
+528	Rangoon	crawl (of people)	twɑ⁵⁵ tθwɑ⁵⁵	twɑ⁵⁵+tθwɑ⁵⁵	 	 	79 1891	t w ɑ ⁵⁵ + tθ w ɑ ⁵⁵
 529	Achang_Longchuan	crawl (of people)	to³¹	to³¹		*doH	79	t o ³¹
 530	Atsi	crawl (of people)	to²¹	to²¹			79	t o ²¹
 531	Bola	crawl (of people)	tɔ³¹	tɔ³¹			79	t ɔ ³¹
@@ -1346,7 +1346,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2355	Lashi	cry / chirp (of birds)	mjəːŋ³¹	mjəːŋ³¹			459	m j əː ŋ ³¹
 2356	Maru	cry / chirp (of birds)	mjaŋ³¹	mjaŋ³¹		*mjiŋ / *mriŋ	459	m j a ŋ ³¹
 2357	Xiandao	cry / chirp (of birds)	mɯŋ⁵⁵	mɯŋ⁵⁵			459	m ɯ ŋ ⁵⁵
-1621	Rangoon	cucumber	tθɑ⁵³ khwɑ⁵⁵ tθi⁵⁵	tθɑ⁵³+khwɑ⁵⁵+tθi⁵⁵	  	  	2418 312 2419	t θ ɑ ⁵³ + kʰ w ɑ ⁵⁵ + t θ i ⁵⁵
+1621	Rangoon	cucumber	tθɑ⁵³ khwɑ⁵⁵ tθi⁵⁵	tθɑ⁵³+khwɑ⁵⁵+tθi⁵⁵	  	  	2418 312 2419	tθ ɑ ⁵³ + kʰ w ɑ ⁵⁵ + tθ i ⁵⁵
 1622	Achang_Longchuan	cucumber	tiaŋ³¹ xo³¹	tiaŋ³¹+xo³¹	 	 *ʔkoH / *koH	2420 312	t ia ŋ ³¹ + x o ³¹
 1623	Atsi	cucumber	tuŋ⁵¹ kho²¹	tuŋ⁵¹+kho²¹	 	 	2421 312	t u ŋ ⁵¹ + kʰ o ²¹
 1624	Bola	cucumber	taŋ⁵⁵ khɔ³¹	taŋ⁵⁵+khɔ³¹	 	 	2422 312	t a ŋ ⁵⁵ + kʰ ɔ ³¹
@@ -1438,7 +1438,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3592	Maru	dead	ʃi̱k³¹ kau³⁵	ʃi̱k³¹+kau³⁵	 	 	729 3384	ʃ i̱ k ³¹ + k au ³⁵
 3593	Xiandao	dead	ʂɿ⁵⁵	ʂɿ⁵⁵			729	ʂ ɿ ⁵⁵
 5006	ProtoBurmish	dead	*ʃe	ʃe¹	*ʃe	*ʃe	533	ʃ e ¹
-962	Rangoon	deaf person	nɑ⁵⁵ pĩ⁵⁵ tθu²²	nɑ⁵⁵+pĩ⁵⁵+tθu²²	  	  	2123 160 2124	n ɑ ⁵⁵ + p ĩ ⁵⁵ + t θ u ²²
+962	Rangoon	deaf person	nɑ⁵⁵ pĩ⁵⁵ tθu²²	nɑ⁵⁵+pĩ⁵⁵+tθu²²	  	  	2123 160 2124	n ɑ ⁵⁵ + p ĩ ⁵⁵ + tθ u ²²
 963	Achang_Longchuan	deaf person	n̥ɔ³¹ kəŋ³¹	n̥ɔ³¹+kəŋ³¹	 	 *giŋH	2125 1156	n̥ ɔ ³¹ + k ə ŋ ³¹
 964	Xiandao	deaf person	n̥a³¹ pɔŋ³¹	n̥a³¹+pɔŋ³¹	 	 	2126 160	n̥ a ³¹ + p ɔ ŋ ³¹
 965	Achang_Longchuan	deaf, be	kəŋ³¹	kəŋ³¹		*giŋH	160	k ə ŋ ³¹
@@ -1459,7 +1459,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2543	Xiandao	deep	nɯk⁵⁵	nɯk⁵⁵			468	n ɯ k ⁵⁵
 1100	Achang_Longchuan	deer	tɕhet⁵⁵ kʐə³¹	tɕhet⁵⁵+kʐə³¹	 	 *greH	2173 1187	tɕʰ e t ⁵⁵ + k ʐ ə ³¹
 2131	Old_Burmese	deer	saʔ maṅ	saʔ+maṅ	 	 *maŋ	2697 388	s a ʔ + m a ṅ/ŋ
-2132	Rangoon	deer	tθɑ⁵³ mĩ²²	tθɑ⁵³+mĩ²²	 	 	2698 388	t θ ɑ ⁵³ + m ĩ ²²
+2132	Rangoon	deer	tθɑ⁵³ mĩ²²	tθɑ⁵³+mĩ²²	 	 	2698 388	tθ ɑ ⁵³ + m ĩ ²²
 4247	Bola	deposit / leave with	i̱³¹ ta̱³⁵ ta̱³¹	i̱³¹+ta̱³⁵+ta̱³¹	  	  *ʔtaH	3666 3667 1663	i̱ ³¹ + t a̱ ³⁵ + t a̱ ³¹
 63	Bola	destroy (cause to)	la̱ʔ⁵⁵ pɛ̃³¹ pjɛ̱ʔ⁵⁵	la̱ʔ⁵⁵+pɛ̃³¹+pjɛ̱ʔ⁵⁵	  	*ʔlak *bamH / *banH *ʔpjap / *ʔpjat	822 949 950	l a̱ ʔ ⁵⁵ + p ɛ̃ ³¹ + p j ɛ̱ ʔ ⁵⁵
 3913	Atsi	destroy (cause to)	lo̱ʔ⁵⁵ kjom²¹	lo̱ʔ⁵⁵+kjom²¹	 	 	822 3550	l o̱ ʔ ⁵⁵ + k j o m ²¹
@@ -1475,7 +1475,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4428	Maru	dew	ŋa̱ŋ³¹	ŋa̱ŋ³¹		*ʔŋan / *ʔŋiŋ	927	ŋ a̱ ŋ ³¹
 64	Achang_Longchuan	diarrhea, have	pan³¹	pan³¹		*banH	7	p a n ³¹
 3626	Old_Burmese	die	siy	sij		*ʔsi / *si / *ʃi	743	s i j
-3627	Rangoon	die	tθe²²	tθe²²			729	t θ e ²²
+3627	Rangoon	die	tθe²²	tθe²²			729	tθ e ²²
 3628	Achang_Longchuan	die	ʂɿ⁵⁵	ʂɿ⁵⁵		*ʃai / *ʃi	742	ʂ ɿ ⁵⁵
 3629	Atsi	die	ʃi⁵¹	ʃi⁵¹			729	ʃ i ⁵¹
 3630	Bola	die	ʃɿ⁵⁵	ʃɿ⁵⁵		*ʃi / *ʃe	533	ʃ ɿ ⁵⁵
@@ -1528,7 +1528,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 377	Old_Burmese	door	tam khaḥ	tam+khaḥ	 	*dam *ʔkaH / *ʔkaH / *kaH	786 1004	t a m + kʰ a ḥ/⁵
 378	Rangoon	door	tɑ̃²² khɑ⁵⁵	tɑ̃²²+khɑ⁵⁵	 	 	61 1005	t ɑ̃ ²² + kʰ ɑ ⁵⁵
 5259	ProtoBurmish	door	*ʔkaH	ˀka²	*ʔkaH	*ʔkaH	786	ˀk a ²
-3664	Rangoon	doubt	tθɑ̃²² tθɑ⁵³ jɑ⁵³	tθɑ̃²²+tθɑ⁵³+jɑ⁵³	  	  	3413 3414 1596	t θ ɑ̃ ²² + t θ ɑ ⁵³ + j ɑ ⁵³
+3664	Rangoon	doubt	tθɑ̃²² tθɑ⁵³ jɑ⁵³	tθɑ̃²²+tθɑ⁵³+jɑ⁵³	  	  	3413 3414 1596	tθ ɑ̃ ²² + tθ ɑ ⁵³ + j ɑ ⁵³
 3665	Bola	doubt	sɿ³¹ tu⁵⁵ a⁵⁵	sɿ³¹+tu⁵⁵+a⁵⁵	  	  *ʔa	3415 3416 1597	s ɿ ³¹ + t u ⁵⁵ + a ⁵⁵
 1047	Atsi	downstairs	kjam²¹ o⁵¹	kjam²¹+o⁵¹	 	 	779 1176	k j a m ²¹ + o ⁵¹
 1048	Bola	downstairs	kjɛ̃³¹ a⁵⁵	kjɛ̃³¹+a⁵⁵	 	*gjamH / *gjanH *ʔa	180 779	k j ɛ̃ ³¹ + a ⁵⁵
@@ -1568,7 +1568,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 110	Maru	drench	pɛʔ³¹	pɛʔ³¹		*bap / *bat	9	p ɛ ʔ ³¹
 1813	Bola	drill / auger	laʔ³¹ mu³⁵ tɔn³¹	laʔ³¹+mu³⁵+tɔn³¹	  	*lak  	334 2538 2539	l a ʔ ³¹ + m u ³⁵ + t ɔ n ³¹
 3648	Old_Burmese	drink	so₂k	sOk		*ʔsuk / *suk / *ʃuk	774	s o₂/ɔ k
-3649	Rangoon	drink	tθɑuʔ⁴	tθɑuʔ⁴			776	t θ ɑu ʔ ⁴
+3649	Rangoon	drink	tθɑuʔ⁴	tθɑuʔ⁴			776	tθ ɑu ʔ ⁴
 3650	Achang_Longchuan	drink	ʂoʔ⁵⁵	ʂoʔ⁵⁵		*ʃok	777	ʂ o ʔ ⁵⁵
 3651	Atsi	drink	ʃuʔ⁵⁵	ʃuʔ⁵⁵			776	ʃ u ʔ ⁵⁵
 3652	Bola	drink	ʃauʔ⁵⁵	ʃauʔ⁵⁵			776	ʃ au ʔ ⁵⁵
@@ -1618,7 +1618,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1537	Lashi	dung (cow)	khjei⁵⁵	khjei⁵⁵			280	kʰ j ei ⁵⁵
 1538	Maru	dung (cow)	nuŋ³⁵ khjik⁵⁵	nuŋ³⁵+khjik⁵⁵	 	 *kji / *kjiH / *kjiX / *kri / *kriH / *kriX	2385 1251	n u ŋ ³⁵ + kʰ j i k ⁵⁵
 1539	Xiandao	dung (cow)	no³¹ khɯ³¹	no³¹+khɯ³¹	 	 	2386 1252	n o ³¹ + kʰ ɯ ³¹
-1540	Rangoon	dung (goat, sheep)	tθo⁵⁵ tɕhi⁵⁵	tθo⁵⁵+tɕhi⁵⁵	 	 	2387 1253	t θ o ⁵⁵ + tɕʰ i ⁵⁵
+1540	Rangoon	dung (goat, sheep)	tθo⁵⁵ tɕhi⁵⁵	tθo⁵⁵+tɕhi⁵⁵	 	 	2387 1253	tθ o ⁵⁵ + tɕʰ i ⁵⁵
 1541	Achang_Longchuan	dung (goat, sheep)	paʔ⁵⁵ tɕhi³¹	paʔ⁵⁵+tɕhi³¹	 	 *ʔkjaiH / *ʔkjiH / *ʔkjeH / *kjaiH / *kjiH / *kjeH	2388 1254	p a ʔ ⁵⁵ + tɕʰ i ³¹
 1542	Atsi	dung (goat, sheep)	pai²¹ nam⁵⁵ khji²¹	pai²¹+nam⁵⁵+khji²¹	  	  	2389 2390 1255	p ai ²¹ + n a m ⁵⁵ + kʰ j i ²¹
 1543	Bola	dung (goat, sheep)	tʃhɔt⁵⁵ pɛʔ⁵⁵ khji³⁵	tʃhɔt⁵⁵+pɛʔ⁵⁵+khji³⁵	  	  *kjiX / *kjeX	2391 2392 1256	tʃʰ ɔ t ⁵⁵ + p ɛ ʔ ⁵⁵ + kʰ j i ³⁵
@@ -1946,7 +1946,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1840	Lashi	finger	lɔʔ³¹ ŋjo̱⁵⁵	lɔʔ³¹+ŋjo̱⁵⁵	 	 	334 2564	l ɔ ʔ ³¹ + ŋ j o̱ ⁵⁵
 1841	Maru	finger	lɔʔ³¹ ŋju̱k⁵⁵	lɔʔ³¹+ŋju̱k⁵⁵	 	*lak 	334 2565	l ɔ ʔ ³¹ + ŋ j u̱ k ⁵⁵
 1842	Xiandao	finger	lɔʔ⁵⁵ ɲ̊au³¹	lɔʔ⁵⁵+ɲ̊au³¹	 	 	334 2566	l ɔ ʔ ⁵⁵ + ɲ̊ au ³¹
-3107	Rangoon	finger (little)	lɛʔ⁴ tθɑ̃⁵⁵	lɛʔ⁴+tθɑ̃⁵⁵	 	 	3197 595	l ɛ ʔ ⁴ + t θ ɑ̃ ⁵⁵
+3107	Rangoon	finger (little)	lɛʔ⁴ tθɑ̃⁵⁵	lɛʔ⁴+tθɑ̃⁵⁵	 	 	3197 595	l ɛ ʔ ⁴ + tθ ɑ̃ ⁵⁵
 3108	Achang_Longchuan	finger (little)	iŋ³¹ oi³¹	iŋ³¹+oi³¹	 	 	3198 595	i ŋ ³¹ + oi ³¹
 3109	Atsi	finger (little)	loʔ²¹ thaŋ⁵¹ ŋu̱i²¹	loʔ²¹+thaŋ⁵¹+ŋu̱i²¹	  	  	3199 595 3200	l o ʔ ²¹ + tʰ a ŋ ⁵¹ + ŋ u̱i ²¹
 3110	Bola	finger (little)	laʔ³¹ thɔ̃³⁵ ŋju̱ŋ³⁵	laʔ³¹+thɔ̃³⁵+ŋju̱ŋ³⁵	  	 *taŋX / *tsaŋX 	3201 595 3202	l a ʔ ³¹ + tʰ ɔ̃ ³⁵ + ŋ j u̱ ŋ ³⁵
@@ -1963,7 +1963,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4868	ProtoBurmish	fire	*meH	me²	*meH	*meH	395	m e ²
 4871	ProtoBurmish	fire	*mjeH	mje²	*mjeH	*mjeH	398	m j e ²
 164	Achang_Longchuan	fire (a shot)	pək⁵⁵	pək⁵⁵		*bik	29	p ə k ⁵⁵
-176	Rangoon	fire (a shot)	tθe²² nɑʔ⁴ piʔ⁴	tθe²²+nɑʔ⁴+piʔ⁴	  	  	1770 1771 29	t θ e ²² + n ɑ ʔ ⁴ + p i ʔ ⁴
+176	Rangoon	fire (a shot)	tθe²² nɑʔ⁴ piʔ⁴	tθe²²+nɑʔ⁴+piʔ⁴	  	  	1770 1771 29	tθ e ²² + n ɑ ʔ ⁴ + p i ʔ ⁴
 177	Atsi	fire (a shot)	mji²¹ um⁵¹ pik²¹	mji²¹+um⁵¹+pik²¹	  	  	1772 1773 974	m j i ²¹ + u m ⁵¹ + p i k ²¹
 178	Bola	fire (a shot)	mi³¹ a̱m⁵⁵ pak³¹	mi³¹+a̱m⁵⁵+pak³¹	  	  *bik	1774 1775 975	m i ³¹ + a̱ m ⁵⁵ + p a k ³¹
 179	Lashi	fire (a shot)	mi³¹ ɔ̱m³³ pəːk³¹	mi³¹+ɔ̱m³³+pəːk³¹	  	  	1776 1777 976	m i ³¹ + ɔ̱ m ³³ + p əː k ³¹
@@ -1984,7 +1984,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 674	Bola	first	nam⁵⁵ pat⁵⁵ ta³¹	nam⁵⁵+pat⁵⁵+ta³¹	  	  *daH / *dzaH	2000 2001 1084	n a m ⁵⁵ + p a t ⁵⁵ + t a ³¹
 675	Lashi	first	nam⁵⁵ pat⁵⁵ ta³¹	nam⁵⁵+pat⁵⁵+ta³¹	  	  	2002 2003 1085	n a m ⁵⁵ + p a t ⁵⁵ + t a ³¹
 3337	Bola	fishy-smelling	vɛʔ³¹	vɛʔ³¹		*wap / *wat	660	v ɛ ʔ ³¹
-1814	Rangoon	fist	lɛʔ⁴ tθi⁵⁵	lɛʔ⁴+tθi⁵⁵	 	 	334 2540	l ɛ ʔ ⁴ + t θ i ⁵⁵
+1814	Rangoon	fist	lɛʔ⁴ tθi⁵⁵	lɛʔ⁴+tθi⁵⁵	 	 	334 2540	l ɛ ʔ ⁴ + tθ i ⁵⁵
 1815	Achang_Longchuan	fist	lɔʔ⁵⁵ thum³¹	lɔʔ⁵⁵+thum³¹	 	*lak 	334 2541	l ɔ ʔ ⁵⁵ + tʰ u m ³¹
 1816	Atsi	fist	lɔʔ²¹ tsu̱p⁵⁵	lɔʔ²¹+tsu̱p⁵⁵	 	 	334 2542	l ɔ ʔ ²¹ + ts u̱ p ⁵⁵
 1817	Bola	fist	laʔ³¹ tsa̱p⁵⁵	laʔ³¹+tsa̱p⁵⁵	 	*lak 	334 2543	l a ʔ ³¹ + ts a̱ p ⁵⁵
@@ -2142,7 +2142,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2278	Xiandao	front	ɲɔʔ⁵⁵ sai³⁵	ɲɔʔ⁵⁵+sai³⁵	 	 	438 2775	ɲ ɔ ʔ ⁵⁵ + s ai ³⁵
 3602	Old_Burmese	front	rhiyʔ	rhijʔ		*ʔriX / *ʔriX	1590	rʰ i j ʔ
 4412	Old_Burmese	frost	nhaṅḥ	nhaṅḥ		*ʔnaŋH / *ʔnaŋH	926	nʰ a ṅ/ŋ ḥ/⁵
-4413	Rangoon	frost	hnĩ⁵⁵ khɛ⁵⁵	hnĩ⁵⁵+khɛ⁵⁵	 	 	927 3719	h n ĩ ⁵⁵ + kʰ ɛ ⁵⁵
+4413	Rangoon	frost	hnĩ⁵⁵ khɛ⁵⁵	n̥ĩ⁵⁵+khɛ⁵⁵	 	 	927 3719	n̥ ĩ ⁵⁵ + kʰ ɛ ⁵⁵
 4414	Achang_Longchuan	frost	ŋ̊an⁵⁵	ŋ̊an⁵⁵		*ʔŋan	927	ŋ̊ a n ⁵⁵
 4415	Atsi	frost	ŋa̱n⁵¹ phju⁵¹	ŋa̱n⁵¹+phju⁵¹	 	 	927 3720	ŋ a̱ n ⁵¹ + pʰ j u ⁵¹
 4416	Bola	frost	ŋɛ̱̃⁵⁵	ŋɛ̱̃⁵⁵		*ʔŋam / *ʔŋan	927	ŋ ɛ̱̃ ⁵⁵
@@ -2191,7 +2191,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4330	Maru	gather (of water) / build up	ta̱ŋ⁵⁵	ta̱ŋ⁵⁵		*ʔtiŋX	891	t a̱ ŋ ⁵⁵
 4331	Xiandao	gather (of water) / build up	tɯŋ⁵⁵	tɯŋ⁵⁵			891	t ɯ ŋ ⁵⁵
 1267	Maru	gather / assemble	jɔ̃³⁵ tsa̱ŋ³¹	jɔ̃³⁵+tsa̱ŋ³¹	 	*jaŋH 	220 2250	j ɔ̃ ³⁵ + ts a̱ ŋ ³¹
-1524	Rangoon	gentle / amiable	tθɑ⁵³ bɔ⁵⁵ thɑ⁵⁵ kɑ̃u⁵⁵	tθɑ⁵³+bɔ⁵⁵+thɑ⁵⁵+kɑ̃u⁵⁵	   	   	2368 2369 1242 2370	t θ ɑ ⁵³ + b ɔ ⁵⁵ + tʰ ɑ ⁵⁵ + k ɑ̃u ⁵⁵
+1524	Rangoon	gentle / amiable	tθɑ⁵³ bɔ⁵⁵ thɑ⁵⁵ kɑ̃u⁵⁵	tθɑ⁵³+bɔ⁵⁵+thɑ⁵⁵+kɑ̃u⁵⁵	   	   	2368 2369 1242 2370	tθ ɑ ⁵³ + b ɔ ⁵⁵ + tʰ ɑ ⁵⁵ + k ɑ̃u ⁵⁵
 1525	Achang_Longchuan	gentle / amiable	xɔʔ³¹ tɕhi³⁵	xɔʔ³¹+tɕhi³⁵	 	 *ʔkjaiX / *ʔkjiX / *ʔkjeX / *kjaiX / *kjiX / *kjeX	2371 292	x ɔ ʔ ³¹ + tɕʰ i ³⁵
 1526	Atsi	gentle / amiable	ŋon⁵⁵ ŋon⁵⁵ tsă²¹	ŋon⁵⁵+ŋon⁵⁵+tsă²¹	  	  	2372 2373 1243	ŋ o n ⁵⁵ + ŋ o n ⁵⁵ + ts ă ²¹
 4765	ProtoBurmish	gentle / amiable	*kjiX	kji³	*kjiX	*kjiX	292	k j i ³
@@ -2343,7 +2343,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1984	Lashi	hail	lək³¹	lək³¹			369	l ə k ³¹
 1985	Maru	hail	lak³¹ ɣu³¹	lak³¹+ɣu³¹	 	*lik *ro	369 528	l a k ³¹ + ɣ u ³¹
 2415	Old_Burmese	hail	muiw si	mui̯+si	 	*mu *ʔse / *ʔsɛ / *se / *sɛ / *ʃe / *ʃɛ	463 529	m ui̯ + s i
-2862	Rangoon	hail	mo⁵⁵ tθi⁵⁵	mo⁵⁵+tθi⁵⁵	 	 	3076 528	m o ⁵⁵ + t θ i ⁵⁵
+2862	Rangoon	hail	mo⁵⁵ tθi⁵⁵	mo⁵⁵+tθi⁵⁵	 	 	3076 528	m o ⁵⁵ + tθ i ⁵⁵
 4836	ProtoBurmish	hail	*ʔljaiH	ˀljai²	*ʔljaiH	*ʔljaiH	363	ˀl j ai ²
 4842	ProtoBurmish	hail	*lik	lik⁴	*lik	*lik	369	l i k ⁴
 5001	ProtoBurmish	hail	*ro	ro¹	*ro	*ro	528	r o ¹
@@ -2423,7 +2423,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 985	Xiandao	hear	kʐɔ³¹	kʐɔ³¹			167	k ʐ ɔ ³¹
 4641	ProtoBurmish	hear	*graH	gra²	*graH	*graH	168	g r a ²
 2060	Old_Burmese	heart	nhac lumḥ	nhac+lumḥ	 	*ʔnik / *ʔnik *lumH	838 1360	nʰ a c + l u m ḥ/⁵
-2061	Rangoon	heart	hnɑ⁵³ lõ⁵⁵	hnɑ⁵³+lõ⁵⁵	 	 	838 1361	h n ɑ ⁵³ + l õ ⁵⁵
+2061	Rangoon	heart	hnɑ⁵³ lõ⁵⁵	n̥ɑ⁵³+lõ⁵⁵	 	 	838 1361	n̥ ɑ ⁵³ + l õ ⁵⁵
 2062	Achang_Longchuan	heart	ȵ̥a⁵⁵ lum³¹	ȵ̥a⁵⁵+lum³¹	 	*ʔɲɛ *lumH	840 377	ȵ̥ a ⁵⁵ + l u m ³¹
 2063	Atsi	heart	ni̱k⁵⁵ lu̱m²¹	ni̱k⁵⁵+lu̱m²¹	 	 	377 838	n i̱ k ⁵⁵ + l u̱ m ²¹
 2064	Bola	heart	na̱k⁵⁵ lam³¹	na̱k⁵⁵+lam³¹	 	*ʔnik 	1362 838	n a̱ k ⁵⁵ + l a m ³¹
@@ -2515,7 +2515,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1527	Rangoon	horseshoe	mjĩ⁵⁵ khwɑ²²	mjĩ⁵⁵+khwɑ²²	 	 	2374 1244	m j ĩ ⁵⁵ + kʰ w ɑ ²²
 1528	Lashi	horseshoe	mjaŋ³³ khjei³¹ tʃɛn⁵⁵	mjaŋ³³+khjei³¹+tʃɛn⁵⁵	  	  	2375 1245 2376	m j a ŋ ³³ + kʰ j ei ³¹ + tʃ ɛ n ⁵⁵
 1529	Maru	horseshoe	mjɔ̃³⁵ khjik⁵⁵ tsəŋ⁵⁵	mjɔ̃³⁵+khjik⁵⁵+tsəŋ⁵⁵	  	 *kji / *kjiH / *kjiX / *kri / *kriH / *kriX 	2377 1246 2378	m j ɔ̃ ³⁵ + kʰ j i k ⁵⁵ + ts ə ŋ ⁵⁵
-2960	Rangoon	host / master	tθɑ⁵³ khĩ²²	tθɑ⁵³+khĩ²²	 	 	3118 552	t θ ɑ ⁵³ + kʰ ĩ ²²
+2960	Rangoon	host / master	tθɑ⁵³ khĩ²²	tθɑ⁵³+khĩ²²	 	 	3118 552	tθ ɑ ⁵³ + kʰ ĩ ²²
 2961	Achang_Longchuan	host / master	in⁵⁵ tʂo⁵⁵	in⁵⁵+tʂo⁵⁵	 	*ʔjim / *ʔjin / *ʔim / *ʔin / *jim / *jin 	555 3119	i n ⁵⁵ + ʈʂ o ⁵⁵
 2962	Atsi	host / master	ju̱m⁵¹ siŋ⁵¹	ju̱m⁵¹+siŋ⁵¹	 	 	3120 552	j u̱ m ⁵¹ + s i ŋ ⁵¹
 2963	Bola	host / master	ja̱m⁵⁵ saŋ⁵⁵	ja̱m⁵⁵+saŋ⁵⁵	 	 *siŋ	3121 1490	j a̱ m ⁵⁵ + s a ŋ ⁵⁵
@@ -2643,7 +2643,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3498	Xiandao	intestine	a³¹ u⁵⁵	a³¹+u⁵⁵	 	 	3326 1574	a ³¹ + u ⁵⁵
 5187	ProtoBurmish	intestine	*ʔʊ	ʔʊ¹	*ʔʊ	*ʔʊ	714	ʔ ʊ ¹
 5190	ProtoBurmish	intestine	*ʔu	ʔu¹	*ʔu	*ʔu	717	ʔ u ¹
-3499	Rangoon	iron	tθɑ̃²²	tθɑ̃²²			714	t θ ɑ̃ ²²
+3499	Rangoon	iron	tθɑ̃²²	tθɑ̃²²			714	tθ ɑ̃ ²²
 3500	Achang_Longchuan	iron	ʂam⁵⁵	ʂam⁵⁵		*ʃam	713	ʂ a m ⁵⁵
 3501	Atsi	iron	ʃam⁵¹ to̱ʔ⁵⁵	ʃam⁵¹+to̱ʔ⁵⁵	 	 	714 3327	ʃ a m ⁵¹ + t o̱ ʔ ⁵⁵
 3502	Bola	iron	ʃɛ̃⁵⁵ ta̱ʔ⁵⁵	ʃɛ̃⁵⁵+ta̱ʔ⁵⁵	 	*ʃam / *ʃan 	713 3328	ʃ ɛ̃ ⁵⁵ + t a̱ ʔ ⁵⁵
@@ -2734,7 +2734,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1315	Old_Burmese	ladle	yo₂k	jOk		*ʔjuk / *juk	232	j o₂/ɔ k
 1316	Rangoon	ladle	jɑuʔ⁴ mɑ⁵³	jɑuʔ⁴+mɑ⁵³	 	 	233 2270	j ɑu ʔ ⁴ + m ɑ ⁵³
 3457	Maru	ladle	ʃɔ³¹	ʃɔ³¹		*ʔrja / *ʃa	706	ʃ ɔ ³¹
-606	Rangoon	lamb	tθo⁵⁵ kɑ⁵³ le⁵⁵	tθo⁵⁵+kɑ⁵³+le⁵⁵	  	  	1922 93 1923	t θ o ⁵⁵ + k ɑ ⁵³ + l e ⁵⁵
+606	Rangoon	lamb	tθo⁵⁵ kɑ⁵³ le⁵⁵	tθo⁵⁵+kɑ⁵³+le⁵⁵	  	  	1922 93 1923	tθ o ⁵⁵ + k ɑ ⁵³ + l e ⁵⁵
 607	Achang_Longchuan	lamb	paʔ⁵⁵ tsɔ³¹	paʔ⁵⁵+tsɔ³¹	 	 *dzaH	1924 93	p a ʔ ⁵⁵ + ts ɔ ³¹
 608	Atsi	lamb	nam⁵⁵ nu⁵⁵ tso²¹	nam⁵⁵+nu⁵⁵+tso²¹	  	  	1925 1926 1056	n a m ⁵⁵ + n u ⁵⁵ + ts o ²¹
 609	Xiandao	lamb	paʔ³¹ tsɔ³¹	paʔ³¹+tsɔ³¹	 	 	1927 93	p a ʔ ³¹ + ts ɔ ³¹
@@ -2771,7 +2771,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1395	Lashi	lay (eggs)	khjɔː⁵³	khjɔː⁵³			255	kʰ j ɔː ⁵³
 1396	Maru	lay (eggs)	khjɔ⁵⁵	khjɔ⁵⁵		*kjaX / *kraX	255	kʰ j ɔ ⁵⁵
 4728	ProtoBurmish	lay (eggs)	*kjaX	kja³	*kjaX	*kjaX	255	k j a ³
-3269	Rangoon	leader in a (stockaded) village	jwɑ²² tθu²² tɕi⁵⁵	jwɑ²²+tθu²²+tɕi⁵⁵	  	  	337 3260 3261	j w ɑ ²² + t θ u ²² + tɕ i ⁵⁵
+3269	Rangoon	leader in a (stockaded) village	jwɑ²² tθu²² tɕi⁵⁵	jwɑ²²+tθu²²+tɕi⁵⁵	  	  	337 3260 3261	j w ɑ ²² + tθ u ²² + tɕ i ⁵⁵
 3270	Bola	leader in a (stockaded) village	va⁵⁵ tau³¹	va⁵⁵+tau³¹	 	*wa 	337 3262	v a ⁵⁵ + t au ³¹
 3271	Lashi	leader in a (stockaded) village	wo³¹ tsou³³	wo³¹+tsou³³	 	 	337 3263	w o ³¹ + ts ou ³³
 2773	Maru	leaf	phɔʔ⁵⁵	phɔʔ⁵⁵		*pak	504	pʰ ɔ ʔ ⁵⁵
@@ -2869,7 +2869,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2491	Rangoon	listen	nɑ⁵⁵ thɑ̃u²²	nɑ⁵⁵+thɑ̃u²²	 	 	467 2896	n ɑ ⁵⁵ + tʰ ɑ̃u ²²
 4640	ProtoBurmish	listen	*gjaH	gja²	*gjaH	*gjaH	167	g j a ²
 2970	Old_Burmese	liver	sañḥ	sañḥ		*ʔsiŋH / *siŋH / *ʃiŋH	1493	s a ñ/ɲ ḥ/⁵
-2971	Rangoon	liver	ɑ⁵³ tθɛ⁵⁵	ɑ⁵³+tθɛ⁵⁵	 	 	3125 562	ɑ ⁵³ + t θ ɛ ⁵⁵
+2971	Rangoon	liver	ɑ⁵³ tθɛ⁵⁵	ɑ⁵³+tθɛ⁵⁵	 	 	3125 562	ɑ ⁵³ + tθ ɛ ⁵⁵
 2972	Achang_Longchuan	liver	a³¹ ʂəŋ³¹	a³¹+ʂəŋ³¹	 	 *ʔsiŋH / *siŋH / *ʃiŋH	3126 562	a ³¹ + ʂ ə ŋ ³¹
 2973	Atsi	liver	siŋ²¹	siŋ²¹			562	s i ŋ ²¹
 2974	Bola	liver	saŋ³⁵	saŋ³⁵		*siŋX	1494	s a ŋ ³⁵
@@ -2892,7 +2892,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4204	Maru	long	xaŋ³¹	xaŋ³¹		*ʔriŋ	1660	x a ŋ ³¹
 4205	Xiandao	long	sɤŋ⁵⁵	sɤŋ⁵⁵			873	s ɤ ŋ ⁵⁵
 5346	ProtoBurmish	long	*ʔriŋ	ˀriŋ¹	*ʔriŋ	*ʔriŋ	873	ˀr i ŋ ¹
-4237	Rangoon	look at and distinguish (characters)	sɑ²² tθĩ²²	sɑ²²+tθĩ²²	 	 	877 3665	s ɑ ²² + t θ ĩ ²²
+4237	Rangoon	look at and distinguish (characters)	sɑ²² tθĩ²²	sɑ²²+tθĩ²²	 	 	877 3665	s ɑ ²² + tθ ĩ ²²
 4238	Achang_Longchuan	look at and distinguish (characters)	sa³⁵	sa³⁵		*ʔsɛX / *ʔrɛX / *sɛX	877	s a ³⁵
 759	Old_Burmese	look like / resemble	tu	tu		*dʊ	123	t u
 760	Achang_Longchuan	look like / resemble	tu⁵⁵	tu⁵⁵		*dʊ	123	t u ⁵⁵
@@ -2922,7 +2922,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2394	Xiandao	loud	mɤŋ³¹	mɤŋ³¹			459	m ɤ ŋ ³¹
 4932	ProtoBurmish	loud	*mriŋ	mriŋ¹	*mriŋ	*mriŋ	459	m r i ŋ ¹
 3515	Old_Burmese	louse	sanḥ	sanḥ		*ʔsanH / *sanH / *ʃanH	542	s a n ḥ/⁵
-3516	Rangoon	louse	tθɑ̃⁵⁵	tθɑ̃⁵⁵			718	t θ ɑ̃ ⁵⁵
+3516	Rangoon	louse	tθɑ̃⁵⁵	tθɑ̃⁵⁵			718	tθ ɑ̃ ⁵⁵
 3517	Achang_Longchuan	louse	ʂan³¹	ʂan³¹		*ʃanH	718	ʂ a n ³¹
 3518	Atsi	louse	ʃin²¹	ʃin²¹			718	ʃ i n ²¹
 3519	Bola	louse	ʃɔn³⁵	ʃɔn³⁵			718	ʃ ɔ n ³⁵
@@ -3143,7 +3143,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3482	Achang_Longchuan	mow / cut (grass)	ʐit⁵⁵	ʐit⁵⁵			714	ʐ i t ⁵⁵
 3483	Xiandao	mow / cut (grass)	ʐɯt⁵⁵	ʐɯt⁵⁵			714	ʐ ɯ t ⁵⁵
 4006	Old_Burmese	mucus (nasal)	nhap	nhap		*ʔnap / *ʔnap	835	nʰ a p
-4007	Rangoon	mucus (nasal)	hnɑʔ⁴	hnɑʔ⁴			835	h n ɑ ʔ ⁴
+4007	Rangoon	mucus (nasal)	hnɑʔ⁴	n̥ɑʔ⁴			835	n̥ ɑ ʔ ⁴
 4008	Achang_Longchuan	mucus (nasal)	n̥ap⁵⁵	n̥ap⁵⁵		*ʔnap	835	n̥ a p ⁵⁵
 4009	Atsi	mucus (nasal)	na̱p⁵⁵	na̱p⁵⁵			835	n a̱ p ⁵⁵
 4010	Bola	mucus (nasal)	nɛ̱ʔ⁵⁵	nɛ̱ʔ⁵⁵		*ʔnap / *ʔnat	835	n ɛ̱ ʔ ⁵⁵
@@ -3171,7 +3171,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4935	ProtoBurmish	mushroom	*ʔmu	ˀmu¹	*ʔmu	*ʔmu	462	ˀm u ¹
 4936	ProtoBurmish	mushroom	*mu	mu¹	*mu	*mu	463	m u ¹
 1851	Old_Burmese	nail	lak sañḥ	lak+sañḥ	 	*lak *ʔsiŋH / *siŋH / *ʃiŋH	334 561	l a k + s a ñ/ɲ ḥ/⁵
-1852	Rangoon	nail	lɛʔ⁴ tθɛ⁵⁵	lɛʔ⁴+tθɛ⁵⁵	 	 	334 562	l ɛ ʔ ⁴ + t θ ɛ ⁵⁵
+1852	Rangoon	nail	lɛʔ⁴ tθɛ⁵⁵	lɛʔ⁴+tθɛ⁵⁵	 	 	334 562	l ɛ ʔ ⁴ + tθ ɛ ⁵⁵
 1853	Achang_Longchuan	nail	lɔʔ⁵⁵ ʂəŋ³¹	lɔʔ⁵⁵+ʂəŋ³¹	 	*lak *ʔsiŋH / *siŋH / *ʃiŋH	334 562	l ɔ ʔ ⁵⁵ + ʂ ə ŋ ³¹
 1854	Atsi	nail	loʔ²¹ siŋ²¹	loʔ²¹+siŋ²¹	 	 	334 1323	l o ʔ ²¹ + s i ŋ ²¹
 1855	Bola	nail	laʔ³¹ saŋ³⁵	laʔ³¹+saŋ³⁵	 	*lak *siŋX	334 564	l a ʔ ³¹ + s a ŋ ³⁵
@@ -3181,7 +3181,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 5034	ProtoBurmish	nail	*ʔsiŋH	ˀsiŋ²	*ʔsiŋH	*ʔsiŋH	561	ˀs i ŋ ²
 5035	ProtoBurmish	nail	*siŋH	siŋ²	*siŋH	*siŋH	562	s i ŋ ²
 5037	ProtoBurmish	nail	*siŋX	siŋ³	*siŋX	*siŋX	564	s i ŋ ³
-2222	Rangoon	nail / tack	tθɑ̃²² tɕhũ²²	tθɑ̃²²+tɕhũ²²	 	 	2743 433	t θ ɑ̃ ²² + tɕʰ ũ ²²
+2222	Rangoon	nail / tack	tθɑ̃²² tɕhũ²²	tθɑ̃²²+tɕhũ²²	 	 	2743 433	tθ ɑ̃ ²² + tɕʰ ũ ²²
 2223	Old_Burmese	name	mañ	mañ		*miŋ	433	m a ñ/ɲ
 2224	Atsi	name	mjiŋ⁵¹	mjiŋ⁵¹			433	m j i ŋ ⁵¹
 2225	Bola	name	maŋ⁵⁵	maŋ⁵⁵		*miŋ	433	m a ŋ ⁵⁵
@@ -3238,7 +3238,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 613	Maru	nephew (brother's son)	tsɔ³⁵	tsɔ³⁵		*dzaH	93	ts ɔ ³⁵
 614	Xiandao	nephew (brother's son)	tsɔ³¹ lu³¹	tsɔ³¹+lu³¹	 	 	1060 1930	ts ɔ ³¹ + l u ³¹
 3021	Old_Burmese	nest (bird)	aʔ suik	aʔ+suik	 	 	3141 580	a ʔ + s ui k
-3022	Rangoon	nest (bird)	ŋ̊ɛʔ⁴ tθɑiʔ⁴	ŋ̊ɛʔ⁴+tθɑiʔ⁴	 	 	680 580	ŋ̊ ɛ ʔ ⁴ + t θ ɑi ʔ ⁴
+3022	Rangoon	nest (bird)	ŋ̊ɛʔ⁴ tθɑiʔ⁴	ŋ̊ɛʔ⁴+tθɑiʔ⁴	 	 	680 580	ŋ̊ ɛ ʔ ⁴ + tθ ɑi ʔ ⁴
 3023	Achang_Longchuan	nest (bird)	m̥ɔʔ⁵⁵ sut⁵⁵	m̥ɔʔ⁵⁵+sut⁵⁵	 	*ʔmak *ʔsut / *ʔrut / *sut	580 1497	m̥ ɔ ʔ ⁵⁵ + s u t ⁵⁵
 3024	Atsi	nest (bird)	ŋo̱ʔ⁵⁵ sut⁵⁵	ŋo̱ʔ⁵⁵+sut⁵⁵	 	 	580 1498	ŋ o̱ ʔ ⁵⁵ + s u t ⁵⁵
 3025	Bola	nest (bird)	ŋa̱ʔ⁵⁵ sɔt⁵⁵	ŋa̱ʔ⁵⁵+sɔt⁵⁵	 	*ʔŋak 	580 1499	ŋ a̱ ʔ ⁵⁵ + s ɔ t ⁵⁵
@@ -3247,7 +3247,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3028	Xiandao	nest (bird)	ŋ̊ɔʔ⁵⁵ sut⁵⁵	ŋ̊ɔʔ⁵⁵+sut⁵⁵	 	 	580 1500	ŋ̊ ɔ ʔ ⁵⁵ + s u t ⁵⁵
 5053	ProtoBurmish	nest (bird)	*sut	sut⁴	*sut	*sut	580	s u t ⁴
 2923	Old_Burmese	new	sac	sac		*ʔsik / *sik / *ʃik	547	s a c
-2924	Rangoon	new	tθiʔ⁴	tθiʔ⁴			547	t θ i ʔ ⁴
+2924	Rangoon	new	tθiʔ⁴	tθiʔ⁴			547	tθ i ʔ ⁴
 2925	Achang_Longchuan	new	ʂək⁵⁵	ʂək⁵⁵		*ʔsik / *sik / *ʃik	547	ʂ ə k ⁵⁵
 2926	Bola	new	sak⁵⁵	sak⁵⁵		*sik	547	s a k ⁵⁵
 2927	Lashi	new	sə̱ːk⁵⁵	sə̱ːk⁵⁵			547	s ə̱ː k ⁵⁵
@@ -3278,7 +3278,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1148	Lashi	ninety	kou³³ tshe³³	kou³³+tshe³³	 	 	202 2178	k ou ³³ + tsʰ e ³³
 1149	Maru	ninety	kuk³¹ tshɛ³¹	kuk³¹+tshɛ³¹	 	*gu / *guH / *guX 	202 2179	k u k ³¹ + tsʰ ɛ ³¹
 1150	Xiandao	ninety	kau³¹ tshi⁵⁵	kau³¹+tshi⁵⁵	 	 	202 2180	k au ³¹ + tsʰ i ⁵⁵
-3523	Rangoon	nit	tθɑ̃⁵⁵ u⁵³	tθɑ̃⁵⁵+u⁵³	 	 	718 3336	t θ ɑ̃ ⁵⁵ + u ⁵³
+3523	Rangoon	nit	tθɑ̃⁵⁵ u⁵³	tθɑ̃⁵⁵+u⁵³	 	 	718 3336	tθ ɑ̃ ⁵⁵ + u ⁵³
 3524	Achang_Longchuan	nit	ʂan³¹ uʔ³¹	ʂan³¹+uʔ³¹	 	*ʃanH 	718 3337	ʂ a n ³¹ + u ʔ ³¹
 3525	Atsi	nit	ʃin²¹ u⁵⁵	ʃin²¹+u⁵⁵	 	 	718 3338	ʃ i n ²¹ + u ⁵⁵
 3526	Bola	nit	ʃɔn³⁵ u̱³⁵	ʃɔn³⁵+u̱³⁵	 	 	718 3339	ʃ ɔ n ³⁵ + u̱ ³⁵
@@ -3355,7 +3355,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3049	Atsi	on top (of the roof)	u²¹ tʃi̱⁵⁵ lĕ²¹ kuŋ⁵¹	u²¹+tʃi̱⁵⁵+lĕ²¹+kuŋ⁵¹	   	   	3150 316 3151 3152	u ²¹ + tʃ i̱ ⁵⁵ + l ĕ ²¹ + k u ŋ ⁵¹
 3050	Bola	on top (of the roof)	tʃɛ³¹ thaʔ⁵⁵	tʃɛ³¹+thaʔ⁵⁵	 	 *tak / *tsak	3153 316	tʃ ɛ ³¹ + tʰ a ʔ ⁵⁵
 3051	Maru	on top (of the roof)	thɔʔ⁵⁵ mɛ³¹	thɔʔ⁵⁵+mɛ³¹	 	*tak 	316 3154	tʰ ɔ ʔ ⁵⁵ + m ɛ ³¹
-1179	Rangoon	one hundred and one	tɑ⁵³ jɑ⁵³ hnĩ⁵³ tiʔ⁴	tɑ⁵³+jɑ⁵³+hnĩ⁵³+tiʔ⁴	   	   	2194 206 2195 2196	t ɑ ⁵³ + j ɑ ⁵³ + h n ĩ ⁵³ + t i ʔ ⁴
+1179	Rangoon	one hundred and one	tɑ⁵³ jɑ⁵³ hnĩ⁵³ tiʔ⁴	tɑ⁵³+jɑ⁵³+n̥ĩ⁵³+tiʔ⁴	   	   	2194 206 2195 2196	t ɑ ⁵³ + j ɑ ⁵³ + n̥ ĩ ⁵³ + t i ʔ ⁴
 1180	Atsi	one hundred and one	lă²¹ ʃo⁵¹ ʒa²¹	lă²¹+ʃo⁵¹+ʒa²¹	  	  	2197 2198 1197	l ă ²¹ + ʃ o ⁵¹ + ʒ a ²¹
 1181	Bola	one hundred and one	tă³¹ ja⁵⁵ ta³¹	tă³¹+ja⁵⁵+ta³¹	  	 *ja 	2199 206 2200	t ă ³¹ + j a ⁵⁵ + t a ³¹
 1182	Lashi	one hundred and one	ta³¹ ʃo̱³³ ta³¹	ta³¹+ʃo̱³³+ta³¹	  	  	2201 1198 2202	t a ³¹ + ʃ o̱ ³³ + t a ³¹
@@ -3376,7 +3376,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1167	Xiandao	open up wasteland	jɔ⁵⁵ ʂɯk⁵⁵ khai³¹	jɔ⁵⁵+ʂɯk⁵⁵+khai³¹	  	  	206 2189 2190	j ɔ ⁵⁵ + ʂ ɯ k ⁵⁵ + kʰ ai ³¹
 4588	ProtoBurmish	open up wasteland	*dzanH	dzan²	*dzanH	*dzanH	115	dz a n ²
 4679	ProtoBurmish	open up wasteland	*ja	ja¹	*ja	*ja	206	j a ¹
-632	Rangoon	orphan	mi⁵³ bɑ⁵³ mɛ⁵³ tθɑ⁵⁵	mi⁵³+bɑ⁵³+mɛ⁵³+tθɑ⁵⁵	   	   	1946 93 1947 1948	m i ⁵³ + b ɑ ⁵³ + m ɛ ⁵³ + t θ ɑ ⁵⁵
+632	Rangoon	orphan	mi⁵³ bɑ⁵³ mɛ⁵³ tθɑ⁵⁵	mi⁵³+bɑ⁵³+mɛ⁵³+tθɑ⁵⁵	   	   	1946 93 1947 1948	m i ⁵³ + b ɑ ⁵³ + m ɛ ⁵³ + tθ ɑ ⁵⁵
 633	Achang_Longchuan	orphan	tʂhau³¹ tsɔ³¹	tʂhau³¹+tsɔ³¹	 	*ʔtʃuH / *tʃuH *dzaH	616 93	ʈʂʰ au ³¹ + ts ɔ ³¹
 634	Atsi	orphan	tʃhui⁵⁵ tso²¹	tʃhui⁵⁵+tso²¹	 	 	1949 93	tʃʰ ui ⁵⁵ + ts o ²¹
 635	Bola	orphan	tʃhu³⁵ ta³¹	tʃhu³⁵+ta³¹	 	*tʃuX *daH / *dzaH	619 93	tʃʰ u ³⁵ + t a ³¹
@@ -3421,7 +3421,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 284	Maru	owl	puk³¹ pə̆³¹ lui³¹	puk³¹+pə̆³¹+lui³¹	  	*bu / *buH / *buX  	49 1815 1816	p u k ³¹ + p ə̆ ³¹ + l ui ³¹
 3198	Maru	paddle / row	thauk⁵⁵	thauk⁵⁵		*tuk	632	tʰ au k ⁵⁵
 1162	Achang_Longchuan	paddy fields	ʑɔ⁵⁵	ʑɔ⁵⁵		*ʔja / *ja	206	ʑ ɔ ⁵⁵
-1445	Rangoon	page	mjɛʔ⁴ hnɑ²²	mjɛʔ⁴+hnɑ²²	 	 	260 2316	m j ɛ ʔ ⁴ + h n ɑ ²²
+1445	Rangoon	page	mjɛʔ⁴ hnɑ²²	mjɛʔ⁴+n̥ɑ²²	 	 	260 2316	m j ɛ ʔ ⁴ + n̥ ɑ ²²
 1446	Achang_Longchuan	page	tʂap⁵⁵	tʂap⁵⁵		*dʒap	127	ʈʂ a p ⁵⁵
 1447	Atsi	page	khjap⁵⁵	khjap⁵⁵			260	kʰ j a p ⁵⁵
 1448	Bola	page	khjɛʔ⁵⁵	khjɛʔ⁵⁵		*kjap / *kjat	260	kʰ j ɛ ʔ ⁵⁵
@@ -3475,12 +3475,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 148	Rangoon	pea / bean	pɛ⁵⁵	pɛ⁵⁵			22	p ɛ ⁵⁵
 149	Old_Burmese	peanut	mliy payḥ	mlij+paiḥ	 	 *baiH	1754 23	m l i j + p ai ḥ/⁵
 150	Rangoon	peanut	mje²² pɛ⁵⁵	mje²²+pɛ⁵⁵	 	 	1755 966	m j e ²² + p ɛ ⁵⁵
-646	Rangoon	peasant	lɛ²² tθɑ⁵³ mɑ⁵⁵	lɛ²²+tθɑ⁵³+mɑ⁵⁵	  	  	1962 93 1963	l ɛ ²² + t θ ɑ ⁵³ + m ɑ ⁵⁵
+646	Rangoon	peasant	lɛ²² tθɑ⁵³ mɑ⁵⁵	lɛ²²+tθɑ⁵³+mɑ⁵⁵	  	  	1962 93 1963	l ɛ ²² + tθ ɑ ⁵³ + m ɑ ⁵⁵
 647	Bola	peasant	xa³⁵ ta³¹ xa³⁵ ʃauʔ⁵⁵ pju⁵⁵	xa³⁵+ta³¹+xa³⁵+ʃauʔ⁵⁵+pju⁵⁵	    	 *daH / *dzaH   	1964 93 1965 1966 1967	x a ³⁵ + t a ³¹ + x a ³⁵ + ʃ au ʔ ⁵⁵ + p j u ⁵⁵
 3798	Bola	pen (chicken)	ɣaʔ³¹ kju̱³⁵	ɣaʔ³¹+kju̱³⁵	 	 *ʔkjuX	3477 793	ɣ a ʔ ³¹ + k j u̱ ³⁵
 3799	Rangoon	pen (writing instrument)	soʔ⁴ tɑ̃²²	soʔ⁴+tɑ̃²²	 	 	3478 793	s o ʔ ⁴ + t ɑ̃ ²²
 3800	Lashi	pen (writing instrument)	pɔ̱ŋ³³ ti̱n³³	pɔ̱ŋ³³+ti̱n³³	 	 	3479 793	p ɔ̱ ŋ ³³ + t i̱ n ³³
-2811	Rangoon	pepper (hot) / chili	ŋɑ⁵³ joʔ⁴ tθi⁵⁵	ŋɑ⁵³+joʔ⁴+tθi⁵⁵	  	  	3060 512 3061	ŋ ɑ ⁵³ + j o ʔ ⁴ + t θ i ⁵⁵
+2811	Rangoon	pepper (hot) / chili	ŋɑ⁵³ joʔ⁴ tθi⁵⁵	ŋɑ⁵³+joʔ⁴+tθi⁵⁵	  	  	3060 512 3061	ŋ ɑ ⁵³ + j o ʔ ⁴ + tθ i ⁵⁵
 2812	Achang_Longchuan	pepper (hot) / chili	phik⁵⁵	phik⁵⁵			512	pʰ i k ⁵⁵
 2813	Atsi	pepper (hot) / chili	tʃi²¹ phjik⁵⁵	tʃi²¹+phjik⁵⁵	 	 	3062 1464	tʃ i ²¹ + pʰ j i k ⁵⁵
 2814	Bola	pepper (hot) / chili	tʃhɔ̃³⁵ phjak⁵⁵	tʃhɔ̃³⁵+phjak⁵⁵	 	 *pjik	3063 1465	tʃʰ ɔ̃ ³⁵ + pʰ j a k ⁵⁵
@@ -3522,7 +3522,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4678	ProtoBurmish	pick up	*guk	guk⁴	*guk	*guk	205	g u k ⁴
 4371	Achang_Longchuan	pick up (food with chopsticks)	ȵ̥ap⁵⁵	ȵ̥ap⁵⁵		*ʔɲap	902	ȵ̥ a p ⁵⁵
 4372	Xiandao	pick up (food with chopsticks)	ɲ̊ap⁵⁵	ɲ̊ap⁵⁵			895	ɲ̊ a p ⁵⁵
-4299	Rangoon	piece of cloth with straps for carrying a toddler	tθɑ̃i⁵⁵ tɕo⁵⁵	tθɑ̃i⁵⁵+tɕo⁵⁵	 	 	3678 884	t θ ɑ̃i ⁵⁵ + tɕ o ⁵⁵
+4299	Rangoon	piece of cloth with straps for carrying a toddler	tθɑ̃i⁵⁵ tɕo⁵⁵	tθɑ̃i⁵⁵+tɕo⁵⁵	 	 	3678 884	tθ ɑ̃i ⁵⁵ + tɕ o ⁵⁵
 4300	Achang_Longchuan	piece of cloth with straps for carrying a toddler	poi³¹ thiʔ³¹ tɕheʔ³¹	poi³¹+thiʔ³¹+tɕheʔ³¹	  	  	3679 884 3680	p oi ³¹ + tʰ i ʔ ³¹ + tɕʰ e ʔ ³¹
 4301	Atsi	piece of cloth with straps for carrying a toddler	pau²¹ tʃi̱⁵⁵	pau²¹+tʃi̱⁵⁵	 	 	3681 884	p au ²¹ + tʃ i̱ ⁵⁵
 4302	Bola	piece of cloth with straps for carrying a toddler	pə̆³¹ ti̱³⁵	pə̆³¹+ti̱³⁵	 	 *ʔtiX / *ʔteX	3682 1669	p ə̆ ³¹ + t i̱ ³⁵
@@ -3767,7 +3767,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2430	Xiandao	rain	mau³¹ ʐo⁵⁵	mau³¹+ʐo⁵⁵	 	 	464 528	m au ³¹ + ʐ o ⁵⁵
 2863	Old_Burmese	rain	ro₁	rU		*ro	528	r o₁/ʊ
 905	Old_Burmese	rainbow	sak tam	sak+tam	 	 *dam	2083 1136	s a k + t a m
-906	Rangoon	rainbow	tθɛʔ⁴ tɑ̃⁵³	tθɛʔ⁴+tɑ̃⁵³	 	 	2084 148	t θ ɛ ʔ ⁴ + t ɑ̃ ⁵³
+906	Rangoon	rainbow	tθɛʔ⁴ tɑ̃⁵³	tθɛʔ⁴+tɑ̃⁵³	 	 	2084 148	tθ ɛ ʔ ⁴ + t ɑ̃ ⁵³
 907	Achang_Longchuan	rainbow	xɔŋ⁵¹ ȵin³¹ nam³¹	xɔŋ⁵¹+ȵin³¹+nam³¹	  	 *mjimH / *mjinH / *mimH / *minH / *njimH / *njinH / *nimH / *ninH / *ɲimH / *ɲinH *namH	2085 149 1137	x ɔ ŋ ⁵¹ + ȵ i n ³¹ + n a m ³¹
 908	Atsi	rainbow	voʔ²¹ kan²¹ ʃiŋ⁵⁵ jaŋ²¹	voʔ²¹+kan²¹+ʃiŋ⁵⁵+jaŋ²¹	   	   	2086 552 1138 2087	v o ʔ ²¹ + k a n ²¹ + ʃ i ŋ ⁵⁵ + j a ŋ ²¹
 909	Bola	rainbow	ɣaʔ³¹ kɛ̃³¹ saŋ⁵⁵ njuŋ⁵⁵	ɣaʔ³¹+kɛ̃³¹+saŋ⁵⁵+njuŋ⁵⁵	   	 *gamH / *ganH *siŋ 	2088 148 1139 2089	ɣ a ʔ ³¹ + k ɛ̃ ³¹ + s a ŋ ⁵⁵ + n j u ŋ ⁵⁵
@@ -4028,7 +4028,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 3737	Xiandao	salty	xɔ³¹	xɔ³¹			785	x ɔ ³¹
 5156	ProtoBurmish	salty	*ŋan	ŋan¹	*ŋan	*ŋan	683	ŋ a n ¹
 3459	Old_Burmese	sand	sayḥ	saiḥ		*ʔsaiH / *saiH / *ʃaiH	708	s ai ḥ/⁵
-3460	Rangoon	sand	tθɛ⁵⁵	tθɛ⁵⁵			706	t θ ɛ ⁵⁵
+3460	Rangoon	sand	tθɛ⁵⁵	tθɛ⁵⁵			706	tθ ɛ ⁵⁵
 3461	Atsi	sand	să²¹ mui⁵¹	să²¹+mui⁵¹	 	 	706 3313	s ă ²¹ + m ui ⁵¹
 3462	Bola	sand	mɛ⁵⁵ ʃa⁵⁵	mɛ⁵⁵+ʃa⁵⁵	 	 *ʃa	3314 1571	m ɛ ⁵⁵ + ʃ a ⁵⁵
 3463	Lashi	sand	sə̆⁵⁵ mui³¹	sə̆⁵⁵+mui³¹	 	 	706 3315	s ə̆ ⁵⁵ + m ui ³¹
@@ -4073,7 +4073,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2485	Bola	see (a doctor)	na⁵⁵ u³⁵	na⁵⁵+u³⁵	 	*na 	466 2891	n a ⁵⁵ + u ³⁵
 2492	Achang_Longchuan	see (a doctor)	nɔ⁵⁵ en³¹	nɔ⁵⁵+en³¹	 	*na 	466 2897	n ɔ ⁵⁵ + e n ³¹
 2494	Maru	see (a doctor)	nɔ³¹ vu⁵⁵	nɔ³¹+vu⁵⁵	 	*na 	466 2898	n ɔ ³¹ + v u ⁵⁵
-3579	Rangoon	seed of Chinese prickly ash	kɑ⁵³ tθɪʔ⁴ shu⁵⁵	kɑ⁵³+tθɪʔ⁴+shu⁵⁵	  	  	3370 1582 3371	k ɑ ⁵³ + t θ ɪ ʔ ⁴ + sʰ u ⁵⁵
+3579	Rangoon	seed of Chinese prickly ash	kɑ⁵³ tθɪʔ⁴ shu⁵⁵	kɑ⁵³+tθɪʔ⁴+shu⁵⁵	  	  	3370 1582 3371	k ɑ ⁵³ + tθ ɪ ʔ ⁴ + sʰ u ⁵⁵
 3580	Achang_Longchuan	seed of Chinese prickly ash	tɕap⁵⁵ ʂə³¹	tɕap⁵⁵+ʂə³¹	 	 *ʃeH	3372 1583	tɕ a p ⁵⁵ + ʂ ə ³¹
 3581	Atsi	seed of Chinese prickly ash	tʃap²¹ ʃi²¹	tʃap²¹+ʃi²¹	 	 	3373 1584	tʃ a p ²¹ + ʃ i ²¹
 3582	Bola	seed of Chinese prickly ash	tsɛʔ³¹ ʃɿ³⁵	tsɛʔ³¹+ʃɿ³⁵	 	 *ʃiX / *ʃeX	3374 729	ts ɛ ʔ ³¹ + ʃ ɿ ³⁵
@@ -4383,7 +4383,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 799	Xiandao	soak / steep	tsin⁵⁵	tsin⁵⁵			131	ts i n ⁵⁵
 4604	ProtoBurmish	soak / steep	*dʒim	dʒim¹	*dʒim	*dʒim	131	dʒ i m ¹
 4605	ProtoBurmish	soak / steep	*dzim	dzim¹	*dzim	*dzim	132	dz i m ¹
-594	Rangoon	soldier	siʔ⁴ tθɑ⁵³	siʔ⁴+tθɑ⁵³	 	 	1913 93	s i ʔ ⁴ + t θ ɑ ⁵³
+594	Rangoon	soldier	siʔ⁴ tθɑ⁵³	siʔ⁴+tθɑ⁵³	 	 	1913 93	s i ʔ ⁴ + tθ ɑ ⁵³
 595	Achang_Longchuan	soldier	ʑa⁵⁵ tsɔ³¹	ʑa⁵⁵+tsɔ³¹	 	 *dzaH	1914 93	ʑ a ⁵⁵ + ts ɔ ³¹
 1078	Atsi	soldier	kje⁵¹	kje⁵¹			190	k j e ⁵¹
 1079	Bola	soldier	kjɛ⁵⁵	kjɛ⁵⁵		*gjɛ	190	k j ɛ ⁵⁵
@@ -4398,7 +4398,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 971	Xiandao	solid	kɯm⁵⁵	kɯm⁵⁵			1158	k ɯ m ⁵⁵
 4633	ProtoBurmish	solid	*giŋH	giŋ²	*giŋH	*giŋH	160	g i ŋ ²
 624	Old_Burmese	son	saḥ	saḥ		*ʔsaH / *saH / *ʃaH	96	s a ḥ/⁵
-625	Rangoon	son	tθɑ⁵⁵	tθɑ⁵⁵			1066	t θ ɑ ⁵⁵
+625	Rangoon	son	tθɑ⁵⁵	tθɑ⁵⁵			1066	tθ ɑ ⁵⁵
 626	Achang_Longchuan	son	tsɔ³¹ lo³¹	tsɔ³¹+lo³¹	 	*dzaH 	1067 1940	ts ɔ ³¹ + l o ³¹
 627	Atsi	son	juʔ²¹ ke⁵¹ tso²¹	juʔ²¹+ke⁵¹+tso²¹	  	  	1941 1942 1068	j u ʔ ²¹ + k e ⁵¹ + ts o ²¹
 628	Bola	son	ta³¹	ta³¹		*daH / *dzaH	1069	t a ³¹
@@ -4414,7 +4414,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2102	Maru	son-in-law	tsɔ̆³⁵ mɔʔ³¹	tsɔ̆³⁵+mɔʔ³¹	 	 *mak	2682 383	ts ɔ̆ ³⁵ + m ɔ ʔ ³¹
 2103	Xiandao	son-in-law	tsɔ³¹ mɔʔ⁵⁵	tsɔ³¹+mɔʔ⁵⁵	 	 	2683 383	ts ɔ ³¹ + m ɔ ʔ ⁵⁵
 3641	Old_Burmese	song	si khraṅḥ	si+khraṅḥ	 	*ʔse / *ʔsɛ / *se / *sɛ / *ʃe / *ʃɛ 	1593 3397	s i + kʰ r a ṅ/ŋ ḥ/⁵
-3642	Rangoon	song	tθi²² tɕhĩ⁵⁵	tθi²²+tɕhĩ⁵⁵	 	 	729 3398	t θ i ²² + tɕʰ ĩ ⁵⁵
+3642	Rangoon	song	tθi²² tɕhĩ⁵⁵	tθi²²+tɕhĩ⁵⁵	 	 	729 3398	tθ i ²² + tɕʰ ĩ ⁵⁵
 277	Achang_Longchuan	sore / boil	pʐəŋ⁵⁵	pʐəŋ⁵⁵		*briŋ	47	p ʐ ə ŋ ⁵⁵
 278	Atsi	sore / boil	pjiŋ⁵¹	pjiŋ⁵¹			48	p j i ŋ ⁵¹
 279	Bola	sore / boil	pjaŋ⁵⁵	pjaŋ⁵⁵		*bjiŋ	48	p j a ŋ ⁵⁵
@@ -4636,7 +4636,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 815	Atsi	stupid	ko⁵¹	ko⁵¹			137	k o ⁵¹
 816	Bola	stupid	ka⁵⁵	ka⁵⁵		*ga	1103	k a ⁵⁵
 817	Maru	stupid	kɔ³¹	kɔ³¹		*ga	137	k ɔ ³¹
-3666	Rangoon	stutterer	shũ⁵³ ɑ⁵³ tθu²²	shũ⁵³+ɑ⁵³+tθu²²	  	  	3417 779 3418	sʰ ũ ⁵³ + ɑ ⁵³ + t θ u ²²
+3666	Rangoon	stutterer	shũ⁵³ ɑ⁵³ tθu²²	shũ⁵³+ɑ⁵³+tθu²²	  	  	3417 779 3418	sʰ ũ ⁵³ + ɑ ⁵³ + tθ u ²²
 3667	Achang_Longchuan	stutterer	ɕɔ⁵⁵ tui³¹	ɕɔ⁵⁵+tui³¹	 	 	779 3419	ɕ ɔ ⁵⁵ + t ui ³¹
 3668	Atsi	stutterer	o⁵¹ tu̱i²¹	o⁵¹+tu̱i²¹	 	 	779 3420	o ⁵¹ + t u̱i ²¹
 3669	Bola	stutterer	a⁵⁵ tu̱i³¹	a⁵⁵+tu̱i³¹	 	*ʔa 	1598 3421	a ⁵⁵ + t u̱i ³¹
@@ -4752,14 +4752,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1258	Bola	they	jɔ̃³¹ maʔ³¹	jɔ̃³¹+maʔ³¹	 	*jaŋH 	220 2244	j ɔ̃ ³¹ + m a ʔ ³¹
 1259	Lashi	they	ŋja³³ nuŋ³³	ŋja³³+nuŋ³³	 	 	220 2245	ŋ j a ³³ + n u ŋ ³³
 1260	Maru	they	jɔ̃³⁵ na̱uŋ⁵⁵	jɔ̃³⁵+na̱uŋ⁵⁵	 	*jaŋH 	220 2246	j ɔ̃ ³⁵ + n a̱u ŋ ⁵⁵
-4071	Rangoon	they	tθu²² to⁵³	tθu²²+to⁵³	 	 	838 3628	t θ u ²² + t o ⁵³
+4071	Rangoon	they	tθu²² to⁵³	tθu²²+to⁵³	 	 	838 3628	tθ u ²² + t o ⁵³
 1261	Achang_Longchuan	they two	ȵ̥aŋ³¹ n̥ək⁵⁵	ȵ̥aŋ³¹+n̥ək⁵⁵	 	 *ʔnik	838 1210	ȵ̥ a ŋ ³¹ + n̥ ə k ⁵⁵
 1262	Atsi	they two	ja̱ŋ⁵⁵ ni̱k⁵⁵	ja̱ŋ⁵⁵+ni̱k⁵⁵	 	 	220 838	j a̱ ŋ ⁵⁵ + n i̱ k ⁵⁵
 1263	Bola	they two	jɔ̃³¹ tɔ̱̃⁵⁵	jɔ̃³¹+tɔ̱̃⁵⁵	 	*jaŋH 	220 2247	j ɔ̃ ³¹ + t ɔ̱̃ ⁵⁵
 1264	Lashi	they two	ŋjaŋ³³ ta̱ŋ³³	ŋjaŋ³³+ta̱ŋ³³	 	 	220 2248	ŋ j a ŋ ³³ + t a̱ ŋ ³³
 1265	Maru	they two	jɔ̃³⁵ na̱k⁵⁵	jɔ̃³⁵+na̱k⁵⁵	 	*jaŋH *ʔnik	220 838	j ɔ̃ ³⁵ + n a̱ k ⁵⁵
 1266	Xiandao	they two	ɲ̊aŋ³¹ n̥ɣk³⁵	ɲ̊aŋ³¹+n̥ɣk³⁵	 	 	220 2249	ɲ̊ a ŋ ³¹ + n̥ ɣ k ³⁵
-4072	Rangoon	they two	tθu²² to⁵³ hniʔ⁴ jɑuʔ⁴	tθu²²+to⁵³+hniʔ⁴+jɑuʔ⁴	   	   	3629 3630 1655 3631	t θ u ²² + t o ⁵³ + h n i ʔ ⁴ + j ɑu ʔ ⁴
+4072	Rangoon	they two	tθu²² to⁵³ hniʔ⁴ jɑuʔ⁴	tθu²²+to⁵³+n̥iʔ⁴+jɑuʔ⁴	   	   	3629 3630 1655 3631	tθ u ²² + t o ⁵³ + n̥ i ʔ ⁴ + j ɑu ʔ ⁴
 923	Achang_Longchuan	thick	kan³¹	kan³¹		*ganH	148	k a n ³¹
 924	Xiandao	thick	kan³⁵	kan³⁵			1147	k a n ³⁵
 4145	Rangoon	thick (porridge)	pjiʔ⁴	pjiʔ⁴			849	p j i ʔ ⁴
@@ -4780,7 +4780,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1060	Lashi	thinner, get (body)	kjiː³³	kjiː³³			184	k j iː ³³
 1061	Maru	thinner, get (body)	kji⁵⁵	kji⁵⁵		*gjeX / *greX	184	k j i ⁵⁵
 4657	ProtoBurmish	thinner, get (body)	*gjeX	gje³	*gjeX	*gjeX	184	g j e ³
-3006	Rangoon	thirty	tθõ⁵⁵ shɛ²²	tθõ⁵⁵+shɛ²²	 	 	574 3134	t θ õ ⁵⁵ + sʰ ɛ ²²
+3006	Rangoon	thirty	tθõ⁵⁵ shɛ²²	tθõ⁵⁵+shɛ²²	 	 	574 3134	tθ õ ⁵⁵ + sʰ ɛ ²²
 3007	Achang_Longchuan	thirty	sum³¹ tɕhe⁵⁵	sum³¹+tɕhe⁵⁵	 	*ʔsumH / *ʔrumH / *sumH 	574 3135	s u m ³¹ + tɕʰ e ⁵⁵
 3008	Atsi	thirty	sum²¹ tshe⁵¹	sum²¹+tshe⁵¹	 	 	574 3136	s u m ²¹ + tsʰ e ⁵¹
 3009	Bola	thirty	sam⁵⁵ thai⁵⁵	sam⁵⁵+thai⁵⁵	 	 	574 3137	s a m ⁵⁵ + tʰ ai ⁵⁵
@@ -4791,7 +4791,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 391	Maru	this year	a³¹ na⁵⁵ tsəŋ³¹	a³¹+na⁵⁵+tsəŋ³¹	  	  *dzan	1855 1856 1010	a ³¹ + n a ⁵⁵ + ts ə ŋ ³¹
 435	Bola	this year	a³¹ khə̆³¹ tɛ̃⁵⁵	a³¹+khə̆³¹+tɛ̃⁵⁵	  	  *dam / *dan / *dzam / *dzan	1867 1868 1018	a ³¹ + kʰ ə̆ ³¹ + t ɛ̃ ⁵⁵
 3013	Old_Burmese	three	sumḥ	sumḥ		*ʔsumH / *sumH / *ʃumH	574	s u m ḥ/⁵
-3014	Rangoon	three	tθõ⁵⁵	tθõ⁵⁵			574	t θ õ ⁵⁵
+3014	Rangoon	three	tθõ⁵⁵	tθõ⁵⁵			574	tθ õ ⁵⁵
 3015	Achang_Longchuan	three	sum³¹	sum³¹		*ʔsumH / *ʔrumH / *sumH	574	s u m ³¹
 3016	Atsi	three	sum²¹	sum²¹			574	s u m ²¹
 3017	Bola	three	sam⁵⁵	sam⁵⁵			574	s a m ⁵⁵
@@ -4873,7 +4873,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 5090	ProtoBurmish	tinker (pans)	*tsuH	tsu²	*tsuH	*tsuH	617	ts u ²
 51	Old_Burmese	tired, be / fatigued	paṅ panḥ	paṅ+panḥ	 	 *banH	1703 7	p a ṅ/ŋ + p a n ḥ/⁵
 2623	Maru	today	a³¹ na⁵⁵ nɛʔ³¹	a³¹+na⁵⁵+nɛʔ³¹	  	  *nap / *nat	2984 2985 477	a ³¹ + n a ⁵⁵ + n ɛ ʔ ³¹
-560	Rangoon	tomb	tθĩ⁵⁵ tɕhɑ̃i⁵⁵	tθĩ⁵⁵+tɕhɑ̃i⁵⁵	 	 	1902 86	t θ ĩ ⁵⁵ + tɕʰ ɑ̃i ⁵⁵
+560	Rangoon	tomb	tθĩ⁵⁵ tɕhɑ̃i⁵⁵	tθĩ⁵⁵+tɕhɑ̃i⁵⁵	 	 	1902 86	tθ ĩ ⁵⁵ + tɕʰ ɑ̃i ⁵⁵
 561	Achang_Longchuan	tomb	ʐɿ³¹ tuŋ⁵⁵	ʐɿ³¹+tuŋ⁵⁵	 	 *duŋ	1903 86	ʐ ɿ ³¹ + t u ŋ ⁵⁵
 2086	Maru	tomorrow	nɛʔ³¹ mɔ⁵⁵ nɛʔ³¹	nɛʔ³¹+mɔ⁵⁵+nɛʔ³¹	  	*nap / *nat *maX *nap / *nat	1366 118 477	n ɛ ʔ ³¹ + m ɔ ⁵⁵ + n ɛ ʔ ³¹
 2592	Rangoon	tomorrow	nɛʔ⁴ phjɑ̃²²	nɛʔ⁴+phjɑ̃²²	 	 	477 2946	n ɛ ʔ ⁴ + pʰ j ɑ̃ ²²
@@ -4923,7 +4923,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2938	Bola	tray (wooden)	sak⁵⁵ phun³¹	sak⁵⁵+phun³¹	 	*sik 	547 3108	s a k ⁵⁵ + pʰ u n ³¹
 4298	Bola	treasured object / treasure	saŋ³⁵ tɛ̱ʔ⁵⁵ tsai⁵⁵	saŋ³⁵+tɛ̱ʔ⁵⁵+tsai⁵⁵	  	 *ʔtap / *ʔtat 	3676 1668 3677	s a ŋ ³⁵ + t ɛ̱ ʔ ⁵⁵ + ts ai ⁵⁵
 2939	Old_Burmese	tree	sac	sac		*ʔsik / *sik / *ʃik	547	s a c
-2940	Rangoon	tree	tθiʔ⁴ pĩ²²	tθiʔ⁴+pĩ²²	 	 	547 3109	t θ i ʔ ⁴ + p ĩ ²²
+2940	Rangoon	tree	tθiʔ⁴ pĩ²²	tθiʔ⁴+pĩ²²	 	 	547 3109	tθ i ʔ ⁴ + p ĩ ²²
 2941	Atsi	tree	sik⁵⁵	sik⁵⁵			547	s i k ⁵⁵
 2942	Bola	tree	sak⁵⁵	sak⁵⁵		*sik	547	s a k ⁵⁵
 2943	Lashi	tree	sə̱k⁵⁵	sə̱k⁵⁵			547	s ə̱ k ⁵⁵
@@ -4978,7 +4978,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 5266	ProtoBurmish	turtledove	*ʔkjuX	ˀkju³	*ʔkjuX	*ʔkjuX	793	ˀk j u ³
 5380	ProtoBurmish	turtledove	*ʔtsai	ˀtsai¹	*ʔtsai	*ʔtsai	907	ˀts ai ¹
 4048	Old_Burmese	twenty	nhac chay	nhac+chai	 	*ʔnik / *ʔnik *ʔtsai / *ʔtʃai / *ʔtsai / *ʔtʃai / *tsai / *tʃai / *tsai / *tʃai	838 907	nʰ a c + ch/tʃʰ ai
-4049	Rangoon	twenty	hniʔ⁴ shɛ²²	hniʔ⁴+shɛ²²	 	 	838 647	h n i ʔ ⁴ + sʰ ɛ ²²
+4049	Rangoon	twenty	hniʔ⁴ shɛ²²	n̥iʔ⁴+shɛ²²	 	 	838 647	n̥ i ʔ ⁴ + sʰ ɛ ²²
 4376	Achang_Longchuan	twenty	tă³¹ sau⁵⁵	tă³¹+sau⁵⁵	 	 *ʔsu / *ʔru / *su	3702 911	t ă ³¹ + s au ⁵⁵
 4377	Atsi	twenty	i⁵⁵ tshe⁵¹	i⁵⁵+tshe⁵¹	 	 	3703 647	i ⁵⁵ + tsʰ e ⁵¹
 4378	Bola	twenty	i̱³⁵ thai⁵⁵	i̱³⁵+thai⁵⁵	 	 *tai / *tsai	3704 904	i̱ ³⁵ + tʰ ai ⁵⁵
@@ -5048,7 +5048,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4653	ProtoBurmish	upstairs	*gjamH	gjam²	*gjamH	*gjamH	180	g j a m ²
 4789	ProtoBurmish	upstairs	*tak	tak⁴	*tak	*tak	316	t a k ⁴
 1648	Maru	upwards	thɔʔ⁵⁵ khjɔ³¹	thɔʔ⁵⁵+khjɔ³¹	 	*tak *kja / *kra	316 314	tʰ ɔ ʔ ⁵⁵ + kʰ j ɔ ³¹
-3057	Rangoon	upwards	ɑ⁵³ pɔ²² tθo⁵³	ɑ⁵³+pɔ²²+tθo⁵³	  	  	3158 3159 316	ɑ ⁵³ + p ɔ ²² + t θ o ⁵³
+3057	Rangoon	upwards	ɑ⁵³ pɔ²² tθo⁵³	ɑ⁵³+pɔ²²+tθo⁵³	  	  	3158 3159 316	ɑ ⁵³ + p ɔ ²² + tθ o ⁵³
 3058	Atsi	upwards	a²¹ thoʔ⁵⁵ mai²¹	a²¹+thoʔ⁵⁵+mai²¹	  	  	3160 316 3161	a ²¹ + tʰ o ʔ ⁵⁵ + m ai ²¹
 3059	Bola	upwards	a³¹ thaʔ⁵⁵ mɛ⁵⁵	a³¹+thaʔ⁵⁵+mɛ⁵⁵	  	 *tak / *tsak 	3162 316 3163	a ³¹ + tʰ a ʔ ⁵⁵ + m ɛ ⁵⁵
 1385	Lashi	urge / hurry / speed up	khaːt⁵⁵	khaːt⁵⁵			253	kʰ aː t ⁵⁵
@@ -5142,11 +5142,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2852	Achang_Longchuan	watery / thin (porridge)	ʐəŋ³¹	ʐəŋ³¹		*riŋH	1474	ʐ ə ŋ ³¹
 2853	Xiandao	watery / thin (porridge)	ʂaŋ³¹	ʂaŋ³¹			526	ʂ a ŋ ³¹
 1326	Achang_Longchuan	we (dual, inclusive)	ŋɔ⁵⁵ tuʔ³¹ sək⁵⁵ ʑuʔ⁵⁵	ŋɔ⁵⁵+tuʔ³¹+sək⁵⁵+ʑuʔ⁵⁵	   	*ŋa   *ʔjuk / *juk	665 2274 2275 1214	ŋ ɔ ⁵⁵ + t u ʔ ³¹ + s ə k ⁵⁵ + ʑ u ʔ ⁵⁵
-4077	Rangoon	we (dual, inclusive)	to⁵³ hniʔ⁴ jɑuʔ⁴	to⁵³+hniʔ⁴+jɑuʔ⁴	  	  	3636 1656 3637	t o ⁵³ + h n i ʔ ⁴ + j ɑu ʔ ⁴
+4077	Rangoon	we (dual, inclusive)	to⁵³ hniʔ⁴ jɑuʔ⁴	to⁵³+n̥iʔ⁴+jɑuʔ⁴	  	  	3636 1656 3637	t o ⁵³ + n̥ i ʔ ⁴ + j ɑu ʔ ⁴
 4078	Atsi	we (dual, inclusive)	i⁵⁵ ni̱k⁵⁵	i⁵⁵+ni̱k⁵⁵	 	 	3638 838	i ⁵⁵ + n i̱ k ⁵⁵
 4079	Bola	we (dual, inclusive)	ŋjɔ̱̃³⁵ na̱k⁵⁵	ŋjɔ̱̃³⁵+na̱k⁵⁵	 	 *ʔnik	3639 838	ŋ j ɔ̱̃ ³⁵ + n a̱ k ⁵⁵
 3374	Achang_Longchuan	we (two)	ŋɔ⁵⁵ n̥ək⁵⁵	ŋɔ⁵⁵+n̥ək⁵⁵	 	*ŋa *ʔnik	838 1563	ŋ ɔ ⁵⁵ + n̥ ə k ⁵⁵
-4042	Rangoon	we (two)	ŋɑ²² to⁵³ hniʔ⁴ jɑuʔ⁴	ŋɑ²²+to⁵³+hniʔ⁴+jɑuʔ⁴	   	   	838 3606 3607 3608	ŋ ɑ ²² + t o ⁵³ + h n i ʔ ⁴ + j ɑu ʔ ⁴
+4042	Rangoon	we (two)	ŋɑ²² to⁵³ hniʔ⁴ jɑuʔ⁴	ŋɑ²²+to⁵³+n̥iʔ⁴+jɑuʔ⁴	   	   	838 3606 3607 3608	ŋ ɑ ²² + t o ⁵³ + n̥ i ʔ ⁴ + j ɑu ʔ ⁴
 4043	Atsi	we (two)	ŋa⁵⁵ ni̱k⁵⁵	ŋa⁵⁵+ni̱k⁵⁵	 	 	3609 838	ŋ a ⁵⁵ + n i̱ k ⁵⁵
 4044	Bola	we (two)	ŋă⁵⁵ nɛ̱⁵⁵	ŋă⁵⁵+nɛ̱⁵⁵	 	 *ʔnɛ	3610 839	ŋ ă ⁵⁵ + n ɛ̱ ⁵⁵
 4045	Lashi	we (two)	ŋŏ³¹ ta̱ŋ³³	ŋŏ³¹+ta̱ŋ³³	 	 	1648 3611	ŋ ŏ ³¹ + t a̱ ŋ ³³
@@ -5279,7 +5279,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 1039	Xiandao	winter	kʐɔt⁵⁵ mɤ⁵⁵	kʐɔt⁵⁵+mɤ⁵⁵	 	 	178 434	k ʐ ɔ t ⁵⁵ + m ɤ ⁵⁵
 4907	ProtoBurmish	winter	*mja	mja¹	*mja	*mja	434	m j a ¹
 3033	Old_Burmese	wipe (the table)	sut	sut		*ʔsut / *sut / *ʃut	581	s u t
-3034	Rangoon	wipe (the table)	tθoʔ⁴	tθoʔ⁴			1501	t θ o ʔ ⁴
+3034	Rangoon	wipe (the table)	tθoʔ⁴	tθoʔ⁴			1501	tθ o ʔ ⁴
 3035	Achang_Longchuan	wipe (the table)	sut⁵⁵	sut⁵⁵		*ʔsut / *ʔrut / *sut	580	s u t ⁵⁵
 3036	Atsi	wipe (the table)	sut⁵⁵	sut⁵⁵			580	s u t ⁵⁵
 3037	Bola	wipe (the table)	sɔt⁵⁵	sɔt⁵⁵			580	s ɔ t ⁵⁵
@@ -5303,7 +5303,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2914	Rangoon	wolf	wũ²² pu⁵³ lwe²²	wũ²²+pu⁵³+lwe²²	  	  	547 3091 3092	w ũ ²² + p u ⁵³ + l w e ²²
 2915	Achang_Longchuan	woman	i³¹ ȵɔ³¹	i³¹+ȵɔ³¹	 	 *mjaH / *njaH / *ɲaH	3093 436	i ³¹ + ȵ ɔ ³¹
 2916	Old_Burmese	wood / log	sac	sac		*ʔsik / *sik / *ʃik	547	s a c
-2917	Rangoon	wood / log	tθiʔ⁴ tõ⁵⁵	tθiʔ⁴+tõ⁵⁵	 	 	547 3094	t θ i ʔ ⁴ + t õ ⁵⁵
+2917	Rangoon	wood / log	tθiʔ⁴ tõ⁵⁵	tθiʔ⁴+tõ⁵⁵	 	 	547 3094	tθ i ʔ ⁴ + t õ ⁵⁵
 2918	Achang_Longchuan	wood / log	ʂək⁵⁵	ʂək⁵⁵		*ʔsik / *sik / *ʃik	547	ʂ ə k ⁵⁵
 2919	Atsi	wood / log	sik⁵⁵ tu̱m⁵⁵	sik⁵⁵+tu̱m⁵⁵	 	 	547 3095	s i k ⁵⁵ + t u̱ m ⁵⁵
 2920	Bola	wood / log	sak⁵⁵ ta̱m³⁵	sak⁵⁵+ta̱m³⁵	 	*sik 	547 3096	s a k ⁵⁵ + t a̱ m ³⁵
@@ -5313,8 +5313,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 2832	Atsi	woodpecker	pau²¹ phuʔ⁵¹ ŋŏ̱ʔ⁵¹	pau²¹+phuʔ⁵¹+ŋŏ̱ʔ⁵¹	  	  	3066 524 1468	p au ²¹ + pʰ u ʔ ⁵¹ + ŋ ŏ̱ ʔ ⁵¹
 2833	Lashi	woodpecker	pou³³ phuk⁵⁵ ŋɔ̱ʔ⁵⁵	pou³³+phuk⁵⁵+ŋɔ̱ʔ⁵⁵	  	  	3067 1469 1470	p ou ³³ + pʰ u k ⁵⁵ + ŋ ɔ̱ ʔ ⁵⁵
 2834	Maru	woodpecker	puk⁵⁵ phauk⁵⁵ ŋɔ̱ʔ⁵⁵	puk⁵⁵+phauk⁵⁵+ŋɔ̱ʔ⁵⁵	  	 *puk *ʔŋak	3068 1471 1472	p u k ⁵⁵ + pʰ au k ⁵⁵ + ŋ ɔ̱ ʔ ⁵⁵
-4402	Rangoon	woodpecker	tθiʔ⁴ khɑuʔ⁴ ŋ̊ɛʔ⁴	tθiʔ⁴+khɑuʔ⁴+ŋ̊ɛʔ⁴	  	  	3716 3717 1683	t θ i ʔ ⁴ + kʰ ɑu ʔ ⁴ + ŋ̊ ɛ ʔ ⁴
-2471	Rangoon	wool / fleece	tθo⁵⁵ mwe⁵⁵	tθo⁵⁵+mwe⁵⁵	 	 	2876 443	t θ o ⁵⁵ + m w e ⁵⁵
+4402	Rangoon	woodpecker	tθiʔ⁴ khɑuʔ⁴ ŋ̊ɛʔ⁴	tθiʔ⁴+khɑuʔ⁴+ŋ̊ɛʔ⁴	  	  	3716 3717 1683	tθ i ʔ ⁴ + kʰ ɑu ʔ ⁴ + ŋ̊ ɛ ʔ ⁴
+2471	Rangoon	wool / fleece	tθo⁵⁵ mwe⁵⁵	tθo⁵⁵+mwe⁵⁵	 	 	2876 443	tθ o ⁵⁵ + m w e ⁵⁵
 2472	Achang_Longchuan	wool / fleece	paʔ⁵³ mui³¹	paʔ⁵³+mui³¹	 	 *muiH	2877 443	p a ʔ ⁵³ + m ui ³¹
 2473	Atsi	wool / fleece	pai²¹ nam⁵⁵ mau⁵⁵	pai²¹+nam⁵⁵+mau⁵⁵	  	  	2878 2879 1390	p ai ²¹ + n a m ⁵⁵ + m au ⁵⁵
 2474	Bola	wool / fleece	tʃhɔt⁵⁵ pɛʔ⁵⁵ mau³⁵	tʃhɔt⁵⁵+pɛʔ⁵⁵+mau³⁵	  	  	2880 2881 1391	tʃʰ ɔ t ⁵⁵ + p ɛ ʔ ⁵⁵ + m au ³⁵
@@ -5369,7 +5369,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 411	Bola	year's (work)	tɛ̃⁵⁵	tɛ̃⁵⁵		*dam / *dan / *dzam / *dzan	61	t ɛ̃ ⁵⁵
 412	Lashi	year's (work)	tsan³¹	tsan³¹			61	ts a n ³¹
 413	Maru	year's (work)	tsəŋ³¹	tsəŋ³¹		*dzan	64	ts ə ŋ ³¹
-4057	Rangoon	year's (work)	hniʔ⁴	hniʔ⁴			838	h n i ʔ ⁴
+4057	Rangoon	year's (work)	hniʔ⁴	n̥iʔ⁴			838	n̥ i ʔ ⁴
 4058	Achang_Longchuan	year's (work)	n̥ək⁵⁵	n̥ək⁵⁵		*ʔnik	838	n̥ ə k ⁵⁵
 4059	Xiandao	year's (work)	n̥ɤk⁵⁵	n̥ɤk⁵⁵			838	n̥ ɤ k ⁵⁵
 476	Atsi	yell / shout	vut²¹ kji⁵¹ tʃheʔ⁵⁵	vut²¹+kji⁵¹+tʃheʔ⁵⁵	  	  	1878 1020 1879	v u t ²¹ + k j i ⁵¹ + tʃʰ e ʔ ⁵⁵
@@ -5397,7 +5397,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	PROTO	PROTO_FORMS	COGIDS	TOKENS
 4957	ProtoBurmish	you	*naŋ	naŋ¹	*naŋ	*naŋ	484	n a ŋ ¹
 2104	Bola	you (pl.)	nauŋ³¹ maʔ³¹	nauŋ³¹+maʔ³¹	 	 *mak	2684 383	n au ŋ ³¹ + m a ʔ ³¹
 2643	Achang_Longchuan	you two	nuaŋ⁵⁵ n̥ək⁵⁵	nwaŋ⁵⁵+n̥ək⁵⁵	 	*naŋ *ʔnik	838 1449	n w a ŋ ⁵⁵ + n̥ ə k ⁵⁵
-4060	Rangoon	you two	mĩ⁵⁵ to⁵³ hniʔ⁴ jɑuʔ⁴	mĩ⁵⁵+to⁵³+hniʔ⁴+jɑuʔ⁴	   	   	3615 3616 1649 3617	m ĩ ⁵⁵ + t o ⁵³ + h n i ʔ ⁴ + j ɑu ʔ ⁴
+4060	Rangoon	you two	mĩ⁵⁵ to⁵³ hniʔ⁴ jɑuʔ⁴	mĩ⁵⁵+to⁵³+n̥iʔ⁴+jɑuʔ⁴	   	   	3615 3616 1649 3617	m ĩ ⁵⁵ + t o ⁵³ + n̥ i ʔ ⁴ + j ɑu ʔ ⁴
 4061	Atsi	you two	nuŋ⁵⁵ ni̱k⁵⁵	nuŋ⁵⁵+ni̱k⁵⁵	 	 	3618 838	n u ŋ ⁵⁵ + n i̱ k ⁵⁵
 4062	Bola	you two	na̱uŋ³¹ nɛ̱̃⁵⁵	na̱uŋ³¹+nɛ̱̃⁵⁵	 	 *ʔnam / *ʔnan	3619 1650	n a̱u ŋ ³¹ + n ɛ̱̃ ⁵⁵
 4063	Lashi	you two	nə̆³¹ ta̱ŋ³³	nə̆³¹+ta̱ŋ³³	 	 	1651 3620	n ə̆ ³¹ + t a̱ ŋ ³³

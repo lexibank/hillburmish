@@ -173,6 +173,8 @@ for p, cogid in p2idx.items():
 
 wl = Wordlist(D)
 for idx in wl:
+    if "hn" in wl[idx, "form"] and wl[idx, "doculect"] == "Rangoon":
+        wl[idx, "form"] = wl[idx, "form"].replace("hn", "n̥")
     if 0 in wl[idx, "cogids"]:
         for i, cogid in enumerate(wl[idx, 'cogids']):
             if cogid == 0:
@@ -180,7 +182,7 @@ for idx in wl:
                 maxidx += 1
 
 
-wl.add_entries("tokens", "form", ipa2tokens, semi_diacritics="hɦzsʃɕʂʐʑʒ")
+wl.add_entries("tokens", "form", ipa2tokens, semi_diacritics="θhɦzsʃɕʂʐʑʒ")
 
 reps = {
         "ṅ": "ṅ/ŋ", "U": "o₁/ʊ",
